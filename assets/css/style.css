@@ -65,14 +65,19 @@ body {
 }
 
 .main-nav a {
-    color: white;
+    color: rgba(255,255,255,0.8);  /* Semi-transparent white */
     text-decoration: none;
     font-size: 1rem;
-    opacity: 0.8;
     transition: opacity 0.3s;
 }
 
 .main-nav a:hover {
+    color: white;
+    opacity: 1;
+}
+
+.main-nav a.active {
+    color: white;
     opacity: 1;
 }
 
