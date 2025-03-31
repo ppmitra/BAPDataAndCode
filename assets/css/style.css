@@ -134,7 +134,7 @@ body {
 /* Hero Section */
 .hero-section {
     background: linear-gradient(rgba(10,10,26,0.7), rgba(10,10,26,0.7)), 
-                url('/assets/images/banner-scaled.jpg') center/cover;
+                url('../images/banner-scaled.jpg') center/cover;
     padding: 6rem 2rem;
     color: white;
 }
