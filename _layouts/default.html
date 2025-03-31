@@ -6,6 +6,8 @@
     <title>{{ site.title }} - {{ page.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     <link rel="icon" href="data:,">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="{{ '/assets/js/search-data.js' | relative_url }}"></script>
 </head>
 <body>
     {% include header.html %}

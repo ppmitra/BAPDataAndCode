@@ -257,3 +257,29 @@ body {
         width: 100%;
     }
 }
+
+.search-results {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+#search-info {
+    margin-bottom: 2rem;
+    color: var(--text-color);
+}
+
+#results-container .result-item {
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+.result-item h2 {
+    margin: 0 0 0.5rem;
+}
+
+.result-item .result-excerpt {
+    color: var(--text-color);
+    opacity: 0.8;
+}

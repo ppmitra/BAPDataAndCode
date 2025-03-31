@@ -1,22 +1,81 @@
 // Search functionality
+let searchIndex;
+
+// Initialize Lunr search index
+const initSearch = () => {
+    if (typeof searchData === 'undefined') {
+        console.error('Search data not loaded');
+        return;
+    }
+    
+    searchIndex = lunr(function() {
+        this.field('title', { boost: 10 });
+        this.field('content');
+        this.ref('url');
+
+        searchData.docs.forEach(doc => {
+            this.add(doc);
+        });
+    });
+};
+
+// Initialize search when search data is loaded
+document.addEventListener('DOMContentLoaded', initSearch);
+
+// Handle search input
 const searchButton = document.querySelector('.search-button');
 const searchInput = document.querySelector('.search-input');
 
 if (searchButton && searchInput) {
-    searchButton.addEventListener('click', () => {
+    const handleSearch = () => {
         const query = searchInput.value.trim();
         if (query) {
-            // You can customize the search URL as needed
-            window.location.href = `/search?q=${encodeURIComponent(query)}`;
+            window.location.href = `/pages/search?q=${encodeURIComponent(query)}`;
         }
-    });
+    };
 
-    // Handle enter key in search input
+    searchButton.addEventListener('click', handleSearch);
     searchInput.addEventListener('keypress', (e) => {
         if (e.key === 'Enter') {
-            searchButton.click();
+            handleSearch();
         }
     });
+}
+
+// Update search results handling
+if (window.location.pathname.includes('/pages/search')) {
+    const params = new URLSearchParams(window.location.search);
+    const query = params.get('q');
+    
+    if (query) {
+        document.getElementById('search-info').textContent = `Search results for: "${query}"`;
+        
+        if (searchIndex) {
+            const results = searchIndex.search(query);
+            
+            if (results.length > 0) {
+                const resultsHtml = results.map(result => {
+                    const doc = searchData.docs.find(d => d.url === result.ref);
+                    return `
+                        <div class="result-item">
+                            <h2><a href="${doc.url}">${doc.title}</a></h2>
+                            <p class="result-excerpt">${doc.content.substring(0, 200)}...</p>
+                        </div>
+                    `;
+                }).join('');
+                document.getElementById('results-container').innerHTML = resultsHtml;
+            } else {
+                document.getElementById('results-container').innerHTML = `
+                    <div class="result-item">
+                        <h2>No results found</h2>
+                        <p class="result-excerpt">No matching content found for "${query}". Please try different search terms.</p>
+                    </div>
+                `;
+            }
+        }
+    } else {
+        document.getElementById('search-info').textContent = 'Please enter a search term';
+    }
 }
 
 // Mobile menu toggle
@@ -26,7 +85,12 @@ mobileMenuButton.innerHTML = '☰';
 document.querySelector('.header-content').prepend(mobileMenuButton);
 
 mobileMenuButton.addEventListener('click', () => {
-    document.querySelector('.main-nav').classList.toggle('active');
+    const nav = document.querySelector('.main-nav');
+    nav.classList.toggle('active');
+    // Focus search input when menu opens
+    if (nav.classList.contains('active')) {
+        nav.querySelector('.search-input')?.focus();
+    }
 });
 
 // Close mobile menu when clicking outside
