@@ -40,6 +40,12 @@ body {
 .site-logo {
     width: 200px;
     height: auto;
+    fill: currentColor; /* This allows the SVG to inherit color */
+}
+
+/* For dark mode or color changes */
+.site-logo:hover {
+    opacity: 0.9;
 }
 
 .site-title {
@@ -127,7 +133,7 @@ body {
 
 /* Hero Section */
 .hero-section {
-    background: linear-gradient(rgba(10,10,26,0.9), rgba(10,10,26,0.9)), 
+    background: linear-gradient(rgba(10,10,26,0.7), rgba(10,10,26,0.7)), 
                 url('/assets/images/banner-scaled.jpg') center/cover;
     padding: 6rem 2rem;
     color: white;
