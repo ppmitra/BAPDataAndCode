@@ -1,0 +1,18 @@
+title: Brain Architecture Project
+description: Data sets and code for the Brain Architecture Project
+baseurl: ""
+url: "https://data.brainarchitecture.org"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - LICENSE
+  - README.md
