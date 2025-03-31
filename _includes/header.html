@@ -1,8 +1,25 @@
 <header class="site-header">
     <div class="header-content">
-        <h1 class="site-title">
-            <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
-        </h1>
-        <p class="site-description">{{ site.description }}</p>
+        <div class="logo-container">
+            <img src="{{ '/assets/images/brain_architecture_logo.png' | relative_url }}" alt="Brain Architecture Project Logo" class="site-logo">
+            <!-- <span class="site-title">Brain Architecture</span> -->
+        </div>
+        <nav class="main-nav">
+            <ul>
+                <li><a href="#">Projects</a></li>
+                <li><a href="#">Atlases</a></li>
+                <li class="search-container">
+                    <input type="search" placeholder="Search..." class="search-input">
+                    <button class="search-button">🔍</button>
+                </li>
+            </ul>
+        </nav>
     </div>
 </header>
+
+<div class="hero-section">
+    <div class="hero-content">
+        <h1>Brain Architecture Project</h1>
+        <p>Uncovering the blueprint of the brain,<br>across multiple species</p>
+    </div>
+</div>

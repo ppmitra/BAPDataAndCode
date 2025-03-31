@@ -16,64 +16,115 @@ body {
     background: var(--background-color);
 }
 
-/* Header */
+/* Reset header styles */
 .site-header {
-    background: var(--header-gradient);
-    color: white;
-    padding: 3rem 2rem;
-    text-align: center;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    background: #0a0a1a;
+    padding: 0.5rem 0;
 }
 
-.site-title a {
+.header-content {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0.5rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.site-logo {
+    width: 200px;
+    height: auto;
+}
+
+.site-title {
     color: white;
-    text-decoration: none;
-    font-size: 2.5rem;
-    font-weight: 700;
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+    font-size: 1.8rem;
+    font-weight: 400;
+}
+
+.project-label {
+    color: white;
+    font-size: 1rem;
+    opacity: 0.8;
 }
 
 /* Navigation */
-.main-nav {
-    background: white;
-    padding: 1rem;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-    position: sticky;
-    top: 0;
-    z-index: 1000;
-}
-
 .main-nav ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
     display: flex;
-    justify-content: center;
     gap: 2rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    align-items: center;
 }
 
 .main-nav a {
-    color: var(--primary-color);
+    color: white;
     text-decoration: none;
-    padding: 0.75rem 1.5rem;
-    border-radius: 25px;
-    transition: all 0.3s ease;
-    font-weight: 500;
+    font-size: 1rem;
+    opacity: 0.8;
+    transition: opacity 0.3s;
 }
 
 .main-nav a:hover {
-    background-color: var(--accent-color);
-    color: white;
-    transform: translateY(-2px);
+    opacity: 1;
 }
 
-.main-nav a.active {
-    background-color: var(--primary-color);
+/* Search */
+.search-container {
+    display: flex;
+    align-items: center;
+}
+
+.search-input {
+    padding: 0.5rem;
+    border-radius: 4px;
+    border: none;
+    background: rgba(255,255,255,0.1);
     color: white;
+}
+
+.search-button {
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+/* Hero Section */
+.hero-section {
+    background: linear-gradient(rgba(10,10,26,0.9), rgba(10,10,26,0.9)), 
+                url('/assets/images/neurons-bg.jpg') center/cover;
+    padding: 6rem 2rem;
+    color: white;
+}
+
+.hero-content {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.hero-content h1 {
+    font-size: 3rem;
+    margin: 0 0 1rem;
+}
+
+.hero-content p {
+    font-size: 1.5rem;
+    opacity: 0.8;
+    margin: 0;
+    line-height: 1.4;
 }
 
 /* Content */
 .content {
+    margin-top: 1rem;
     max-width: 1200px;
     margin: 2rem auto;
     padding: 2rem;
@@ -104,14 +155,71 @@ body {
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
-    .main-nav ul {
+    .logo-container {
         flex-direction: column;
-        align-items: center;
+        align-items: flex-start;
         gap: 1rem;
+    }
+    
+    .site-title {
+        font-size: 2.5rem;
+    }
+    
+    .project-subtitle {
+        font-size: 2rem;
     }
     
     .content {
         margin: 1rem;
         padding: 1rem;
+    }
+    
+    .site-logo {
+        width: 100px;
+    }
+}
+
+/* Add to your existing CSS */
+.mobile-menu-toggle {
+    display: none;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 1.5rem;
+    cursor: pointer;
+    padding: 0.5rem;
+}
+
+@media (max-width: 768px) {
+    .mobile-menu-toggle {
+        display: block;
+    }
+
+    .main-nav {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background: #0a0a1a;
+        padding: 1rem;
+    }
+
+    .main-nav.active {
+        display: block;
+    }
+
+    .main-nav ul {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .search-container {
+        width: 100%;
+        margin-top: 1rem;
+    }
+
+    .search-input {
+        width: 100%;
     }
 }
