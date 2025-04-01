@@ -1,0 +1,75 @@
+---
+layout: default
+title: Mouse Reference Framework
+---
+
+# Mouse Reference Framework
+
+Welcome to the Brain Architecture Project's Mouse Reference Framework. This section provides access to all mouse-related resources.
+
+## Reference Atlas
+
+The Mouse Reference Atlas Framework provides a standardized approach for mapping and analyzing mouse head anatomy.
+
+### Key Features
+- High-resolution 3D atlas
+- Standardized coordinate system
+- Anatomical landmarks
+- Cross-sectional views
+
+[View Mouse Atlas Details](/pages/mouse/atlas) | [Download Atlas Data](#)
+
+---
+
+## Available Data Sets
+
+### Mouse Head Imaging Data
+Comprehensive collection of standardized datasets for mouse brain architecture.
+
+#### Categories
+- Raw Imaging Data
+  - MRI scans
+  - CT scans
+  - Histology images
+  
+- Processed Data
+  - Segmentation maps
+  - Registration results
+  - Feature maps
+
+[Browse Mouse Datasets](/pages/mouse/datasets) | [Download Instructions](#)
+
+---
+
+## Registration Framework
+
+### Getting Started
+Tools and documentation for registering your data with the mouse reference atlas.
+
+#### Quick Start
+1. Install dependencies
+2. Download reference data
+3. Prepare your data
+4. Run registration
+
+[View Registration Documentation](/pages/mouse/registration) | [Download Tools](#)
+
+---
+
+## Code Resources
+
+### Available Tools
+
+#### Registration Framework
+Tools and utilities for registering your data with our mouse reference atlas.
+- Data preprocessing scripts
+- Registration algorithms
+- Validation tools
+
+#### Analysis Tools
+Collection of analysis scripts and notebooks.
+- Statistical analysis
+- Visualization tools
+- Data processing pipelines
+
+[View Code Documentation](/pages/mouse/codes) | [GitHub Repository](#) 
