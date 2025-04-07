@@ -72,4 +72,9 @@ Collection of analysis scripts and notebooks.
 - Visualization tools
 - Data processing pipelines
 
+#### Data Processing Tools
+- [segVoxReassign](/pages/segvoxreassign) - Tools for remapping Allen Brain Atlas segmentation IDs to manageable ranges
+- Feature extraction utilities
+- Segmentation helpers
+
 [View Code Documentation](/pages/mouse/codes) | [GitHub Repository](#) 
