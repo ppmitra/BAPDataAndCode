@@ -12,4 +12,12 @@ Welcome to the Brain Architecture Project data repository. This is where we host
 - Registration tools and code implementations
 - Analysis pipelines and example code
 
+## Featured Resources
+
+### [Brain Atlas](/pages/atlas)
+Our reference atlas frameworks for multiple species
+
+### [segVoxReassign Repository](/pages/segvoxreassign)
+Tools for remapping Allen Brain Atlas segmentation IDs to more manageable ranges
+
 [Get Started with the Atlas](/pages/atlas)
