@@ -23,19 +23,18 @@ The Mouse Reference Atlas Framework provides a standardized approach for mapping
 
 ## Available Data Sets
 
-### Mouse Head Imaging Data
+### Mouse Whole Head Imaging Data
 Comprehensive collection of standardized datasets for mouse brain architecture.
 
 #### Categories
 - Raw Imaging Data
-  - MRI scans
-  - CT scans
   - Histology images
-  
+  - Radiology images
 - Processed Data
   - Segmentation maps
   - Registration results
   - Feature maps
+  - Co-registered volumes
 
 [Browse Mouse Datasets](/pages/mouse/datasets) | [Download Instructions](#)
 
