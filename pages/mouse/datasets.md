@@ -22,18 +22,16 @@ Each .zip contains the following data:
 ## Histology
 - Nissl stain (p56+-7, .46 in-plane resolution, 10um between planes)
 	- lossless .jp2
-		- lossy .jp2
-		- downsampled .tif
-		- downsampled .png
-		- metadata .txt
-	- Myelin stain (p56+-7, .46 in-plane resolution, 10um between planes)
-		- lossless .jp2
-		- lossy .jp2
-		- downsampled .tif
-		- downsampled .png
-		- metadata .txt
-
----
+	- lossy .jp2
+	- downsampled .tif
+	- downsampled .png
+	- metadata .txt
+- Myelin stain (p56+-7, .46 in-plane resolution, 10um between planes)
+	- lossless .jp2
+	- lossy .jp2
+	- downsampled .tif
+	- downsampled .png
+	- metadata .txt
 
 ## Radiology
 - Primary Modality (in vivo)
@@ -131,8 +129,6 @@ Each .zip contains the following data:
 	- Standard Model:  FOD fourth order rotational invariant
 		- Filename: smi_p4.nii.gz (in dwi_maps_head/exvivo/../../smi/ folder)
 - CT (50um resolution)
-
----
 
 ## Analytic Results
 - Averaged T2w in vivo volume as reference space
