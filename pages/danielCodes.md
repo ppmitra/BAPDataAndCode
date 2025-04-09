@@ -1,6 +1,6 @@
 ---
 layout: default
-title: daniel-codes
+title: danielCodes
 ---
 
 # Semi-automatic Rigid Registration
