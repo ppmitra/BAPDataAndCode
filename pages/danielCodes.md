@@ -55,7 +55,6 @@ bash python semiautomatic.py \
   - device cuda:0
 
 
-
 # Manual Nissl 3D Quality Control & Cleanup
 
 ## Overview
@@ -108,7 +107,11 @@ python manual_nissl_3d_QC.py \
     -g 50.0 \
     -n 99
 
+## View the Full Repository
 
+[View on GitHub](https://github.com/mitragithub/daniel-codes){:target="_blank"}
 
+## Download
 
-
+[Download ZIP](https://github.com/mitragithub/daniel-codes/archive/refs/heads/main.zip){:target="_blank"}
+[Clone with git](https://github.com/mitragithub/daniel-codes.git){:target="_blank"}
