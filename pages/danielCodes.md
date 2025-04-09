@@ -103,7 +103,7 @@ Run the script in wrapper-example from the command line with the following synta
 
 ## Explanation of Options:
 
-| Option | Description |
+| Option | 
 |--------|-------------|
 | `-b`   | Base directory (e.g., contains `MD961-nissl-registered/`) |
 | `-r`   | Range selector (`1`, `2`, or `3`):<br>• 1 → slices `0001–0125`<br>• 2 → slices `0126–0250`<br>• 3 → slices `0251–0400` |
