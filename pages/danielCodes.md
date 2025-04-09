@@ -115,9 +115,9 @@ Run the script in wrapper-example from the command line with the following synta
 
 ## View the Full Repository
 
-[View on GitHub](https://github.com/mitragithub/daniel-codes){:target="_blank"}
+[View on GitHub](https://github.com/mitragithub/align-qc){:target="_blank"}
 
 ## Download
 
-[Download ZIP](https://github.com/mitragithub/daniel-codes/archive/refs/heads/main.zip){:target="_blank"}
-[Clone with git](https://github.com/mitragithub/daniel-codes.git){:target="_blank"}
+[Download ZIP](https://github.com/mitragithub/align-qc/archive/refs/heads/main.zip){:target="_blank"}
+[Clone with git](https://github.com/mitragithub/align-qc.git){:target="_blank"}
