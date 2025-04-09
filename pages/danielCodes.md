@@ -94,18 +94,23 @@ All images are displayed in registered space with the same pixel dimensions. Thi
 - **emlddmm** (for reading VTK files)
 - **argparse** (standard Python library)
 
-## Usage
-Run the script from the command line with the following syntax:
+## Wrapper Example Usage
+Run the script in wrapper-example from the command line with the following syntax:
 
-```bash
-python manual_nissl_3d_QC.py \
-    -T path/to/target_nissl.vtk \
-    -N path/to/neighbor_nissl.vtk \
-    -M path/to/neighbor_mri.vtk \
-    -O path/to/output_directory \
-    -v True \
-    -g 50.0 \
-    -n 99
+./rerun_MD961.sh \
+    -b /path/to/images/ \
+    -r 2
+
+## Explanation of Options:
+# Option	Description
+-b	      Base directory (e.g., contains MD961-nissl-registered/)
+-r	      Range selector (1, 2, or 3):
+          • 1 → slices 0001–0125
+          • 2 → 0126–0250
+          • 3 → 0251–0400
+-s	      (Optional) Single slice (4-digit, e.g., 0150) instead of a range
+-d	      Dry run — prints the actions without executing
+-h	      Displays the help message
 
 ## View the Full Repository
 
