@@ -102,15 +102,17 @@ Run the script in wrapper-example from the command line with the following synta
     -r 2
 
 ## Explanation of Options:
-# Option	Description
--b	      Base directory (e.g., contains MD961-nissl-registered/)
--r	      Range selector (1, 2, or 3):
-          • 1 → slices 0001–0125
-          • 2 → 0126–0250
-          • 3 → 0251–0400
--s	      (Optional) Single slice (4-digit, e.g., 0150) instead of a range
--d	      Dry run — prints the actions without executing
--h	      Displays the help message
+| Option | Description                                                                 |
+|--------|-----------------------------------------------------------------------------|
+| `-b`   | Base directory (e.g., contains `MD961-nissl-registered/`)                   |
+| `-r`   | Range selector (`1`, `2`, or `3`):                                          |
+|        | • 1 → slices `0001–0125`                                                    |
+|        | • 2 → slices `0126–0250`                                                    |
+|        | • 3 → slices `0251–0400`                                                    |
+| `-s`   | *(Optional)* Single slice (4-digit, e.g., `0150`) instead of a range        |
+| `-d`   | Dry run — prints the actions without executing                              |
+| `-h`   | Displays the help message                                                   |
+
 
 ## View the Full Repository
 
