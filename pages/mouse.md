@@ -75,6 +75,6 @@ Collection of analysis scripts and notebooks.
 - [segVoxReassign](/pages/segvoxreassign) - Tools for remapping Allen Brain Atlas segmentation IDs to manageable ranges
 - Feature extraction utilities
 - Segmentation helpers
-- [daniel-codes](/pages/daniel-codes.md) - Tools for quality control and clean up 3D reconstruction of nissls, and for performing semi-automatic rigid alignment (registration) using manual point selection and gradient-based optimization.
+- [daniel-codes](/pages/danielCodes.md) - Tools for quality control and clean up 3D reconstruction of nissls, and for performing semi-automatic rigid alignment (registration) using manual point selection and gradient-based optimization.
 
 [View Code Documentation](/pages/mouse/codes) | [GitHub Repository](#) 
