@@ -65,7 +65,7 @@ Tools and documentation for Skeletonizing tracer-injected Datasets.
 3. Prepare your data
 4. Run Skeletonization and Summarization.
 
-[View Skeletonization Page](/pages/mouse/skeletonization)
+[View Skeletonization Page](/pages/skeletonization)
 
 ---
 
