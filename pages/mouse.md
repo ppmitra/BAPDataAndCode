@@ -54,6 +54,20 @@ Tools and documentation for registering your data with the mouse head reference 
 [View Registration Documentation](/pages/mouse/registration) | [Download Tools](#)
 
 ---
+## Skeletonization Framework
+
+### Getting Started
+Tools and documentation for Skeletonizing tracer-injected Datasets.
+
+#### Quick Start
+1. Install dependencies
+2. Download reference data
+3. Prepare your data
+4. Run Skeletonization and Summarization.
+
+[View Skeletonization Page](/pages/mouse/skeletonization) (#)
+
+---
 
 ## Code Resources
 
