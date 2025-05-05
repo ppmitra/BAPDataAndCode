@@ -7,9 +7,9 @@ title: Data Sets
 Resources for our Skeletonization and Summarization Framework
 
 ## Datasets Available
-- fWSI [Visualize]
-- STP [Visualize] | [Data]
-- Mouselight ION [Visualize] | [Data]
+- WSI [Visualize](https://brainviewer.org:4200/CSHL/V1/view/850001/1/112)
+- STP [Visualize](https://brainviewer.org:4200/CSHL/V1/view/850006/1/69)
+- Mouselight ION [Visualize](https://neuroxiv.org/)
 
 ## Available Code
 - Skeletonization Framework
