@@ -16,6 +16,6 @@ Resources for our Skeletonization and Summarization Framework
 - Vectorization of Skeletonized Data
 - Registration
 - Summarization of Skeletonization Data
-- Visualiozation Tools
+- Visualization Tools
 
 ## Publications 
