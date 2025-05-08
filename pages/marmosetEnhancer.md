@@ -11,4 +11,4 @@ We detect the cells marked by enhancers and the antibodies along with the DAPI c
 
 An example of the enhancer PCBP3 is shown here.
 
-![A sample image](/assets/images/PCBp3_antiPCBp3.png  | width=80)
+![A sample image](/assets/images/PCBp3_antiPCBp3.pn)
