@@ -20,8 +20,12 @@ True-positives are calculated within a distance of 10 pixels from the marker. Th
 
 $sensitivity = \frac{\|E \bigcap M\|}{\|M\|}$
 
-$specificity = \frac{\|D\| - \|M\| - \|E\| + TP}{\|D\| - \|M\|}$
+$specificity = \frac{\|D\| - \|M\| - \|E\| + TP}{\|D\| - \|M\|}$,   where,
 
+$TP = \|E \bigcap M\|$, $FN = \|D - M\| - TP$, $TN = \|D\| - \|M\| - \|E\| + TP$, and
+$\|E\|$  is the number of cells marked by the enhancer virus, $\|M\|$ is the number of marker labeled cells, and $\|D\|$ is the number of cells marked by DAPI.
+
+The following formula has been derived based on the \"Sensitivity and specificity\" calculations stated in the [Wikipedia](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
 
 
 The results for specificity and sensitivity each image is given in following Table.
