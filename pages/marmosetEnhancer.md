@@ -18,10 +18,13 @@ An example of the enhancer PCBP3 is shown here.
 
 True-positives are calculated within a distance of 10 pixels from the marker. The specificity and sensitivity is calculated as follows:
 
+$sensitivity = \frac{\|E \bigcap M\|}{\|M\|}$
+
+$specificity = \frac{\|D\| - \|M\| - \|E\| + TP}{\|D\| - \|M\|}$
+
+
 
 The results for specificity and sensitivity each image is given in following Table.
-$sensitivity = \frac{\|E \bigcap M\|}{\|M\|}$
-$specificity = \frac{\|D\| - \|M\| - \|E\| + TP}{\|D\| - \|M\|}$
 
 <div id="enhancer-table-container" style="overflow-x:auto; margin:2em 0;"></div>
 
