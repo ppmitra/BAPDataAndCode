@@ -16,7 +16,12 @@ An example of the enhancer PCBP3 is shown here.
   <div style="margin-top: 0.5em; color: #555; font-size: 1em;"><b>The image shows a combined image for 3 channels where Ch2 gives the enhancer PCBP3, ch1 gives the marker anti-PCBP3, and Ch1 gives the DAPI channel</b></div>
 </div>
 
+True-positives are calculated within a distance of 10 pixels from the marker. The specificity and sensitivity is calculated as follows:
+
+
 The results for specificity and sensitivity each image is given in following Table.
+$sensitivity = \frac{\|E \bigcap M\|, \|M\|}$
+$specificity = \frac{\|D\| - \|M\| - \|E\| + TP, \|D\| - \|M\|}$
 
 <div id="enhancer-table-container" style="overflow-x:auto; margin:2em 0;"></div>
 
