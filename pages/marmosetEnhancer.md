@@ -28,6 +28,7 @@ $\|E\|$  is the number of cells marked by the enhancer virus, $\|M\|$ is the num
 
 The following formula has been derived based on the \"Sensitivity and specificity\" calculations stated in the [Wikipedia](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
 
+TP, FP, FN and TN are True-positives, False-positives, False-negatives and True-negatives, respectively, as per standard definitions.
 
 The results for specificity and sensitivity each image is given in following Table.
 
