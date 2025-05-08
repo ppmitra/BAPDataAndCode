@@ -22,7 +22,7 @@ True-positives are calculated within a distance of 10 pixels from the marker. Th
 
 $$sensitivity = \frac{\|E \bigcap M\|}{\|M\|}$$
 
-$$specificity = \frac{\|D\| - \|M\| - \|E\| + TP}{\|D\| - \|M\|}$$,   
+$$specificity = \frac{\|D\| - \|M\| - \|E\| + TP}{\|D\| - \|M\|}$$   
 
 where, $$TP = \|E \bigcap M\|$$, $$FN = \|D - M\| - TP$$, $$TN = \|D\| - \|M\| - \|E\| + TP$$, and
 
