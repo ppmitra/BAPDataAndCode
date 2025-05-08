@@ -22,17 +22,17 @@ True-positives are calculated within a distance of 10 pixels from the marker. Th
 
 $$sensitivity = \frac{\|E \bigcap M\|}{\|M\|}$$
 
-$specificity = \frac{\|D\| - \|M\| - \|E\| + TP}{\|D\| - \|M\|}$,   
+$$specificity = \frac{\|D\| - \|M\| - \|E\| + TP}{\|D\| - \|M\|}$$,   
 
-where, $TP = \|E \bigcap M\|$, $FN = \|D - M\| - TP$, $TN = \|D\| - \|M\| - \|E\| + TP$, and
+where, $$TP = \|E \bigcap M\|$$, $$FN = \|D - M\| - TP$$, $$TN = \|D\| - \|M\| - \|E\| + TP$$, and
 
-$\|E\|$  is the number of cells marked by the enhancer virus, $\|M\|$ is the number of marker labeled cells, and $\|D\|$ is the number of cells marked by DAPI.
+$$\|E\|$$  is the number of cells marked by the enhancer virus, $$\|M\|$$ is the number of marker labeled cells, and $$\|D\|$$ is the number of cells marked by DAPI.
 
 The following formula has been derived based on the \"Sensitivity and specificity\" calculations stated in the [Wikipedia](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
 
 TP, FP, FN and TN are True-positives, False-positives, False-negatives and True-negatives, respectively, as per standard definitions.
 
-The results for specificity and sensitivity each image is given in following Table.
+**<b>The results for specificity and sensitivity for each image are given in the following Table. Column 1: Shows the name of the enhancers; Column 2: Shows the name of the markers; Column 3: Shows the name of the individual file Index-Number; Column 4: Shows the number of the detected cells marked by the enhancer; Column 5: Shows the  number of the detected cells marked in the DAPI channel; Column 6: Shows the number of the detected cells marked by the marker; Column 6: Shows the number of True-positives; Column 6: Shows the Specificity; Column 6: Shows the Sensitivity<b>**
 
 <div id="enhancer-table-container" style="overflow-x:auto; margin:2em 0;"></div>
 
