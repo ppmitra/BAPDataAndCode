@@ -14,7 +14,7 @@ Comprehensive collection of standardized datasets for the Brain Architecture Pro
 - Sagittal Brain [Download ZIP](https://)
 - Transverse Brain [Download ZIP](https://)
 
----
+<!-- ---
 
 # Available Data
 Each .zip contains the following data:
@@ -140,7 +140,7 @@ Each .zip contains the following data:
 	- virtual sections matched with alternate N/MY histology
 - Superimposed atlas region boundaries
 
----
+--- -->
 
 ### Access
 All datasets are available under GNU GPL v3 license.
