@@ -17,11 +17,9 @@ The Mouse Head Reference Atlas Framework provides a standardized approach for ma
 - Anatomical landmarks
 - Cross-sectional views
 
-[View Mouse Atlas Details](/pages/mouse/atlas) | [Download Atlas Data](#)
+[Download Atlas Data](/pages/mouse/datasets)
 
 ---
-
-## Available Data Sets
 
 ### Mouse Whole Head Imaging Data
 Comprehensive collection of standardized datasets for mouse brain architecture.
@@ -35,8 +33,6 @@ Comprehensive collection of standardized datasets for mouse brain architecture.
   - Registration results
   - Feature maps
   - Co-registered volumes
-
-[Browse Mouse Datasets](/pages/mouse/datasets) | [Download Instructions](#)
 
 ---
 
