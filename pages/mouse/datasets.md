@@ -3,16 +3,22 @@ layout: default
 title: Data Sets
 ---
 
-## Whole Mouse Head and Brain Imaging Data
-Comprehensive collection of standardized datasets for the Brain Architecture Project.
+## Brain Architecture Project Reference Atlas Framework for the Mouse Head and Brain
 
 # Available Data Sets
-- Coronal Whole Head [Download ZIP](https://)
-- Sagittal Whole Head [Download ZIP](https://)
-- Transverse Whole Head [Download ZIP](https://)
-- Coronal Brain [Download ZIP](https://)
-- Sagittal Brain [Download ZIP](https://)
-- Transverse Brain [Download ZIP](https://)
+- Reference Atlas Space based on invivo MRI/CT [Download ZIP](https://)
+- “Bubble corrected” Allen Atlas Annotations [Download ZIP](https://drive.google.com/drive/folders/1YArTu3-z7f2YZL7zMBzDjSCdYyxOAXfB?usp=drive_link)
+- Histology data for mouse head
+	- Registered Space
+		- Head sectioned in coronal plane [Download ZIP](https://drive.google.com/file/d/1H53NT3cyCbjLjvH8wq3D9TXTm7_0K-wW/view?usp=drive_link)
+		- Head sectioned in transverse plane [Download ZIP](https://drive.google.com/file/d/1YDNtV9Kg3PM-IN9Dl0U5tu4jPjT2Nad0/view?usp=drive_link)
+		- Head sectioned in sagittal plane [Download ZIP](https://drive.google.com/file/d/1KL20h-xTpeUKEPzPqppcd1_zxA4jl9yQ/view?usp=drive_link)
+	- Atlas Space
+		- Will be made available soon
+- Brains (Histology (Nissl, Myelin))
+	- Head sectioned in coronal plane [Download ZIP](https://)
+	- Head sectioned in transverse plane [Download ZIP](https://)
+	- Head sectioned in sagittal plane [Download ZIP](https://)
 
 <!-- ---
 
@@ -145,4 +151,4 @@ Each .zip contains the following data:
 ### Access
 All datasets are available under GNU GPL v3 license.
 
-[Browse Datasets](#) | [Download Instructions](#) | [Usage Guidelines](#)
+<!-- [Browse Datasets](#) | [Download Instructions](#) | [Usage Guidelines](#) -->
