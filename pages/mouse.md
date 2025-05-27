@@ -3,11 +3,8 @@ layout: default
 title: Mouse Head Reference Atlas Framework
 ---
 
-# Mouse Head Reference Atlas Framework
 
-Welcome to the Brain Architecture Project's Mouse Head Reference Atlas Framework. This section provides access to all mouse-related resources.
-
-## Reference Atlas
+## Mouse Head Reference Atlas Framework
 
 The Mouse Head Reference Atlas Framework provides a standardized approach for mapping and analyzing mouse head anatomy.
 
