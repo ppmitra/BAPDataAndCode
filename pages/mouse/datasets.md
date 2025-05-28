@@ -16,8 +16,8 @@ title: Data Sets
 	- Atlas Space
 		- Will be made available soon
 - Brains (Histology (Nissl, Myelin))
-	- Head sectioned in coronal plane [Download ZIP](https://)
-	- Head sectioned in transverse plane [Download ZIP](https://)
+	- Head sectioned in coronal plane 
+	- Head sectioned in transverse plane 
 	- Head sectioned in sagittal plane [Download ZIP](https://drive.google.com/drive/folders/16RpECl6Ty9TFs73cU9msdPM5GUTLqV8A?usp=drive_link)
 
 <!-- ---
