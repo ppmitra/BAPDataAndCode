@@ -11,5 +11,3 @@ Welcome to the Brain Architecture Project data repository. This is where we host
 - Comprehensive anatomical datasets
 - Registration tools and code implementations
 - Analysis pipelines and example code
-
-[Get Started with the Atlas](/pages/atlas)
