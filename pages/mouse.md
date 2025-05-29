@@ -44,7 +44,7 @@ Tools and documentation for registering your data with the mouse head reference 
 3. Prepare your data
 4. Run registration
 
-[View Registration Documentation](/pages/mouse/registration) | [Download Tools](#)
+[View Registration Documentation](https://twardlab.github.io.emlddmm/build/html/index.html) | [Download Tools](https://github.com/twardlab/emlddmm/archive.refs.heads.main.zip)
 
 ---
 ## Skeletonization Framework
