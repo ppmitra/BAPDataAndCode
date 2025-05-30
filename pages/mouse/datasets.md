@@ -6,7 +6,7 @@ title: Data Sets
 ## Brain Architecture Project Reference Atlas Framework for the Mouse Head and Brain
 
 # Available Data Sets
-- Reference Atlas Space based on invivo MRI/CT [Download ZIP](https://drive.google.com/drive/folders/1vYJz6v5H6Hsq-WXPP98d5Gnj82hetaBw?usp=drive_link)
+- Reference Atlas Space based on invivo MRI/CT [Download ZIP](https://drive.google.com/file/d/1NBouguQ_Vnfjp9NzlHairLvuGNVg0mbg/view?usp=drive_link)
 - “Bubble corrected” Allen Atlas Annotations [Download ZIP](https://drive.google.com/drive/folders/1YArTu3-z7f2YZL7zMBzDjSCdYyxOAXfB?usp=drive_link)
 - Histology data for mouse head
 	- Registered Space
