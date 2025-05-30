@@ -24,8 +24,6 @@ title: Data Sets
 	- Atlas Space
 		- Brain sectioned in coronal plane (will be made available soon)
 		- Brain sectioned in transverse plane (will be made available soon)
-		- Brain sectioned in sagittal plane [Download ZIP](https://drive.google.com/drive/folders/16RpECl6Ty9TFs73cU9msdPM5GUTLqV8A?usp=drive_link)
+		- Brain sectioned in sagittal plane [Download ZIP](https://drive.google.com/file/d/16PUv0jM0lpyv9O2c5RzXGb9FiGb3ydJq/view?usp=sharing)
 ### Access
 All datasets are available under GNU GPL v3 license.
-
-<!-- [Browse Datasets](#) | [Download Instructions](#) | [Usage Guidelines](#) -->
