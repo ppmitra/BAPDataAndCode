@@ -15,11 +15,16 @@ title: Data Sets
 		- Head sectioned in sagittal plane [Download ZIP](https://drive.google.com/file/d/1KL20h-xTpeUKEPzPqppcd1_zxA4jl9yQ/view?usp=drive_link)
 	- Atlas Space
 		- Will be made available soon
-- Brains (Histology (Nissl, Myelin))
-	- Head sectioned in coronal plane 
-	- Head sectioned in transverse plane 
-	- Head sectioned in sagittal plane [Download ZIP](https://drive.google.com/drive/folders/16RpECl6Ty9TFs73cU9msdPM5GUTLqV8A?usp=drive_link)
 
+- Histology Data for mouse brain
+	- Registered Space
+		- Brain sectioned in coronal plane [Download ZIP](https://drive.google.com/file/d/1RuGLVzHnP-NBVCL4afSrMYXZjQw6qVuh/view?usp=drive_link)
+		- Brain sectioned in transverse plane [Download ZIP](https://drive.google.com/file/d/12m_r_b3zaMX3udBZMgj6CCfIqezwOBhy/view?usp=drive_link)
+		- Brain sectioned in sagittal plane [Download ZIP](https://drive.google.com/file/d/1_aQZtkceP9xeGa37wNs2zRtQqUoZlFZp/view?usp=drive_link)
+	- Atlas Space
+		- Brain sectioned in coronal plane (will be made available soon)
+		- Brain sectioned in transverse plane (will be made available soon)
+		- Brain sectioned in sagittal plane [Download ZIP](https://drive.google.com/drive/folders/16RpECl6Ty9TFs73cU9msdPM5GUTLqV8A?usp=drive_link)
 <!-- ---
 
 # Available Data
