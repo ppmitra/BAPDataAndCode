@@ -12,10 +12,14 @@ Resources for our Skeletonization and Summarization Framework
 - Mouselight ION [Visualize](https://neuroxiv.org/)
 
 ## Available Code
-- Skeletonization Framework
-- Vectorization of Skeletonized Data
-- Registration
-- Summarization of Skeletonization Data
-- Visualization Tools
+- Skeletonization Framework [Link to Github](https://github.com/MitraLab-Organization/2D-Skeletonization/tree/main/Skektonization_Suite) 
+- Vectorization of Skeletonized Data [Link to Github](https://github.com/MitraLab-Organization/2D-Skeletonization/tree/main/Vectorization)
+- Registration [Link to Github](https://github.com/twardlab/emlddmm)
+- Summarization of Skeletonization Data [link to Github]()
+- Visualization Tools & Utilities [Link to Github](https://github.com/MitraLab-Organization/2D-Skeletonization/tree/main/Utilities)
+
+## Data Samples
+- WSI Data
+- STP Data
 
 ## Publications 
