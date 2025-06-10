@@ -15,11 +15,11 @@ Resources for our Skeletonization and Summarization Framework
 - Skeletonization Framework [Link to Github](https://github.com/MitraLab-Organization/2D-Skeletonization/tree/main/Skektonization_Suite) 
 - Vectorization of Skeletonized Data [Link to Github](https://github.com/MitraLab-Organization/2D-Skeletonization/tree/main/Vectorization)
 - Registration [Link to Github](https://github.com/twardlab/emlddmm)
-- Summarization of Skeletonization Data [link to Github]()
+- Summarization of Skeletonization Data [Link to Github](https://github.com/MitraLab-Organization/2D-Skeletonization/tree/main/Summarization)
 - Visualization Tools & Utilities [Link to Github](https://github.com/MitraLab-Organization/2D-Skeletonization/tree/main/Utilities)
 
 ## Data Samples
-- WSI Data
-- STP Data
+- WSI Data [Link](TBD)
+- STP Data [Link](TBD)
 
 ## Publications 
