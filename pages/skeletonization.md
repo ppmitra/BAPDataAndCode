@@ -21,5 +21,6 @@ Resources for our Skeletonization and Summarization Framework
 ## Data Samples
 - WSI Data [Link](https://drive.google.com/file/d/1Izmf4D7eJV13S11ffSIhOzhaTjlkzYt_/view?usp=sharing)
 - STP Data [Link](https://drive.google.com/file/d/1j_IkIHCJkFBkGadvUz24_1W1XqpKDiaF/view?usp=sharing)
+- Tile [Likelihood](https://drive.google.com/file/d/1I7BCvxPcZ7XLPyxDrcdPebwy7QJrvLK2/view?usp=drive_link) [Original](https://drive.google.com/file/d/1azSahB9rP_YRr_GIXgaaex5YQAc16FKz/view?usp=drive_link)
 
 ## Publications 
