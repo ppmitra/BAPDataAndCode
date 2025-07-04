@@ -13,7 +13,7 @@ An example of the enhancer PCBP3 is shown here.
 
 <div style="text-align: center; margin: 2em 0;">
   <img src="{{ '/assets/images/PCBp3_antiPCBp3.png' | relative_url }}" alt="Brain Architecture Project Logo" style="width:1000px; height:auto; object-fit:contain; border-radius:8px; box-shadow:0 4px 16px rgba(0,0,0,0.25);">
-  <div style="margin-top: 0.5em; color: #555; font-size: 1em;"><b>Fig.: The image shows a combined image for 3 channels where Ch2 gives the enhancer PCBP3, Ch3 gives the marker anti-PCBP3, and Ch1 gives the DAPI channel</b></div>
+  <div style="margin-top: 0.5em; color: #555; font-size: 1em;"><b>Fig. The image shows a combined image for 3 channels where Ch2 gives the enhancer PCBP3, Ch3 gives the marker anti-PCBP3, and Ch1 gives the DAPI channel</b></div>
 </div>
 
 True-positives are calculated within a distance of 10 pixels from the marker. The specificity and sensitivity is calculated as follows:
