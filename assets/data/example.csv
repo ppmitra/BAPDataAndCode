@@ -1,4 +1,4 @@
-"Enhancer","Marker","File#","\|E\|","\|D\|","\|M\|","\|TP\|","Specificity","Sensitivity"
+"Enhancer","Marker","Sample#","\|E\|","\|D\|","\|M\|","\|TP\|","Specificity","Sensitivity"
 "D2 (cjD2)","Adora2a","1","59","950","293","17","0.9361","0.0580"
 "D2 (cjD2)","Adora2a","2","113","2447","668","15","0.9449","0.0225"
 "D2 (cjD2)","Drd2","1","50","2834","1739","10","0.9635","0.0058"
