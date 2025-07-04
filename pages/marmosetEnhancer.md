@@ -58,7 +58,7 @@ fetch('/assets/data/example.csv')
         data.forEach((row, i) => {
           html += `<tr style="background:${i%2==0?'#fff':'#f9f9f9'};">`;
           Object.values(row).forEach((cell, j) => {
-            let align = (j >= 2) ? 'center' : 'left';
+            let align = 'center';
             if (j === 7 || j === 8) align = 'right';
             html += `<td style="padding:8px;border:1px solid #ddd;text-align:${align};">${cell}</td>`;
           });
