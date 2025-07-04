@@ -12,7 +12,7 @@ We detect the cells marked by enhancers and the antibodies along with the DAPI c
 An example of the enhancer PCBP3 is shown here.
 
 <div style="text-align: center; margin: 2em 0;">
-  <img src="{{ '/assets/images/PCBp3_antiPCBp3.png' | relative_url }}" alt="Brain Architecture Project Logo" style="width:400px; height:auto; object-fit:contain; border-radius:12px; box-shadow:0 4px 16px rgba(0,0,0,0.15);">
+  <img src="{{ '/assets/images/PCBp3_antiPCBp3.png' | relative_url }}" alt="Brain Architecture Project Logo" style="width:800px; height:auto; object-fit:contain; border-radius:8px; box-shadow:0 4px 16px rgba(0,0,0,0.15);">
   <div style="margin-top: 0.5em; color: #555; font-size: 1em;"><b>The image shows a combined image for 3 channels where Ch2 gives the enhancer PCBP3, ch1 gives the marker anti-PCBP3, and Ch1 gives the DAPI channel</b></div>
 </div>
 
