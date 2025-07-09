@@ -1,84 +1,84 @@
 Enhancer,Marker,Sample#,Thumbnail,\|E\|,\|D\|,\|M\|,\|TP\|,Specificity,Sensitivity,Composite Images
 D2 (cjD2),Adora2a,1,19EBuSC5rRBeaXCKLrqHraHGMwu4OOWel,59,950,293,17,0.9361,0.058,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AGLij5E5XWwNUAyMUA1aTlg/D2/ISH_Adora2a?dl=0&e=1&preview=cjKatrin_Drd2Marm_Plate1D1_ADORA2A647_DAPI_20x_060824.tif&rlkey=azzm86dlj60kc7ztq8xek9096&st=c16gs5th&subfolder_nav_tracking=1
 D2 (cjD2),Adora2a,2,1Rvv7NxvcqBOP6jZt1CZMrn3uKeu61oQp,113,2447,668,15,0.9449,0.0225,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AGLij5E5XWwNUAyMUA1aTlg/D2/ISH_Adora2a?dl=0&preview=cjKatrin_Drd2Marm_Plate3B1_ADORA2A647_DAPI_20x_071524_Cycle.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
-D2 (cjD2),Drd2,1,1U_4b7i61RYMe7_8wWKYXoOT7RRDLVWg6,50,2834,1739,10,0.9635,0.0058,
-D2 (cjD2),Drd2,2,170yeHuteWo-Rf4QfSkkvjda5RGliyQQo,287,2976,871,65,0.8945,0.0746,
-D2 (mmD2),Adora2a,1,1hc0_7voeWx4BGGncdhE6fds1DOYtQrMz,67,950,293,19,0.9269,0.0165,
-D2 (mmD2),Adora2a,2,1bryA61fGV8hICNDVs9Y2FoA0PVDUsfOs,75,2447,668,11,0.964,0.0648,
-D2 (mmD2),Drd2,1,1y3JrXDjF89RPLJZuDwyokodpXxaUhx2E,166,2834,1739,54,0.8977,0.0311,
-D2 (mmD2),Drd2,2,1NclGHyTliLIYKW64GiRkd5Vi0lUoBdvN,238,2976,871,62,0.9164,0.0712,
-DA (DAE4),antiTH,1,,433,3960,855,151,0.9092,0.033,
-DA (DAE4),antiTH,2,,94,3424,181,25,0.9787,0.0783,
-DA (DAE4),antiTH,3,,225,4506,266,32,0.9545,0.082,
-DA (DAE4),antiTH,4,,47,4738,356,20,0.9938,0.0242,
-DA (DAE4),DAT,1,,31,9293,369,21,0.9989,0.0569,
-DA (DAE4),DAT,2,,53,8123,472,38,0.998,0.0805,
-DA (DAE4),DAT,3,,204,8054,663,97,0.9855,0.1463,
-DA (DAE4),DAT,4,,121,8252,657,88,0.9957,0.1339,
-DA (DAE8),antiTH,1,,101,3960,855,64,0.9881,0.0749,
-DA (DAE8),antiTH,2,,62,3424,181,21,0.9874,0.116,
-DA (DAE8),antiTH,3,,100,4506,266,30,0.9835,0.1128,
-DA (DAE8),antiTH,4,,80,4738,356,33,0.9893,0.0927,
-DA (DAE8),DAT,1,,32,9293,369,15,0.9981,0.0407,
-DA (DAE8),DAT,2,,68,8123,472,41,0.9965,0.0869,
-DA (DAE8),DAT,3,,411,8054,663,103,0.9583,0.1554,
-DA (DAE8),DAT,4,,153,8252,657,107,0.9939,0.1629,
-FOXP2_RORB ( FOXP2_RORB_E4),antiRORB,1,,318,6666,3322,167,0.9548,0.0503,
-FOXP2_RORB ( FOXP2_RORB_E4),antiRORB,2,,528,14178,6067,210,0.9608,0.0346,
-FOXP2_RORB ( FOXP2_RORB_E4),antiRORB,3,,378,12376,3079,119,0.9721,0.0386,
-FOXP2_RORB ( FOXP2_RORB_E4),antiFOXP2,1,,38,4155,1864,31,0.9969,0.0166,
-FOXP2_RORB ( FOXP2_RORB_E4),antiFOXP2,2,,234,14026,6546,168,0.9912,0.0257,
-FOXP2_RORB ( FOXP2_RORB_E4),antiFOXP2,3,,1114,15539,5118,499,0.941,0.0975,
-FOXP2_RORB ( FOXP2_RORB_E9),antiRORB,1,,766,6666,3322,221,0.837,0.0665,
-FOXP2_RORB ( FOXP2_RORB_E9),antiRORB,2,,294,14178,6067,70,0.9724,0.0115,
-FOXP2_RORB ( FOXP2_RORB_E9),antiRORB,3,,1332,12376,3079,278,0.8866,0.0903,
-FOXP2_RORB ( FOXP2_RORB_E9),antiFOXP2,1,,19,4155,1864,17,0.9991,0.0091,
-FOXP2_RORB ( FOXP2_RORB_E9),antiFOXP2,2,,141,14026,6546,92,0.9934,0.0141,
-FOXP2_RORB ( FOXP2_RORB_E9),antiFOXP2,3,,201,15539,5118,108,0.9911,0.0211,
-PCBP3,antiPCBP3,1,,199,1947,483,130,0.9529,0.2692,
-PCBP3,antiPCBP3,2,,214,1963,489,138,0.9484,0.2822,
-PCBP3,antiPCBP3,3,,155,3593,470,109,0.9853,0.2319,
-PCBP3,antiPCBP3,4,,72,1848,389,62,0.9931,0.1594,
-PCBP3,GAD,1,,70,421,158,52,0.9316,0.3291,
-PCBP3,GAD,2,,22,352,185,17,0.9701,0.0919,
-PCBP3,GAD,3,,14,256,206,12,0.96,0.0583,
-PCBP3,GAD,4,,33,376,241,29,0.9704,0.1203,
-PCBP3,GAD,5,,42,369,35,20,0.9341,0.5714,
-PCBP3,GAD,6,,164,643,293,98,0.8114,0.3345,
-SST_E2,SST,1,,43,2062,19,13,0.9853,0.6842,
-SST_E2,SST,2,,11,1734,13,6,0.9971,0.4615,
-SST_E2,SST,3,,2,992,100,2,1,0.02,
-SST_E2,SST,4,,49,1914,16,5,0.9752,0.125,
-SST_E2,SST,5,,14,1276,18,9,0.996,0.5,
-SST_E2,SST,6,,9,1256,17,7,0.9984,0.4118,
-SST_E2,SST,7,,16,1344,14,11,0.9962,0.7857,
-SST_E2,SST,8,,19,1262,23,11,0.9935,0.4783,
-SST_E2,Calbindin,1,,58,1172,185,11,0.9524,0.0595,
-SST_E2,Calbindin,2,,104,453,94,40,0.8217,0.4255,
-SST_E2,Calbindin,3,,126,462,101,40,0.7618,0.396,
-Tandem,TAC3,1,,5,48,5,5,1,1,
-Tandem,TAC3,2,,33,208,37,4,0.8304,0.1081,
-Tandem,TAC3,3,,21,266,34,4,0.9267,0.1176,
-BCL11b,CTIP2,1,,16,730,279,6,0.9778,0.0215,
-BCL11b,CTIP2,2,,4,900,237,4,1,0.0169,
-BCL11b,CTIP2,3,,35,517,134,23,0.9687,0.1716,
-BCL11b,FOXP2,1,,21,2820,2440,17,0.9895,0.007,
-BCL11b,FOXP2,2,,108,3136,2221,86,0.976,0.0387,
-CHAT,RiceE1-primary,1,,12,1317,11,0,0.9908,0,
-CHAT,RiceE1-primary,2,,2,1206,12,1,0.9992,0.0833,
-CHAT,RiceE1-primary,3,,2,1185,7,1,0.9992,0.1429,
-CHAT,RiceE1-primary,4,,22,1123,13,0,0.9802,0,
-CHAT,RiceE1-primary,5,,2,3550,10,0,0.9994,0,
-CHAT,RiceE1-primary,6,,3,3390,14,1,0.9994,0.0714,
-CHAT,RiceE1-primary,7,,57,3511,11,3,0.9846,0.2727,
-CHAT,RiceE1-primary,8,,1,3605,9,1,1,0.1111,
-CHAT,RiceE1-primary,9,,2,3636,27,2,1,0.0741,
-CHAT,RiceE1-primary,10,,4,3361,33,1,0.9991,0.0303,
-CHAT,RiceE1-primary,11,,5,3386,22,1,0.9988,0.0455,
-CHAT,RiceE1-primary,12,,3,3590,13,1,0.9994,0.0769,
-CHAT,RiceE1-secondary,1,,9,3110,6,1,0.9974,0.1667,
-CHAT,RiceE1-secondary,2,,15,3559,2,0,0.9958,0,
-CHAT,RiceE1-secondary,3,,1,3215,20,1,1,0.05,
-CHAT,RiceE1-secondary,4,,4,3771,23,1,0.9992,0.0435,
-CHAT,RiceE1-secondary,5,,3,2646,32,2,0.9996,0.0625,
-CHAT,RiceE1-secondary,6,,8,1441,13,0,0.9944,0,
+D2 (cjD2),Drd2,1,1U_4b7i61RYMe7_8wWKYXoOT7RRDLVWg6,50,2834,1739,10,0.9635,0.0058,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AHgw5rTLWT5TVeodZlqfAmM/D2/ISH_Drd2?dl=0&preview=Stitch_cjKatrin_Drd2Marm_PlateEvenB3_aRFP555_Drd2647_DAPI_20x_071524_Cycle.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+D2 (cjD2),Drd2,2,170yeHuteWo-Rf4QfSkkvjda5RGliyQQo,287,2976,871,65,0.8945,0.0746,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AHgw5rTLWT5TVeodZlqfAmM/D2/ISH_Drd2?dl=0&preview=Stitch_cjKatrin_Drd2Marm_PlateEvenC3_aGFP488_Drd2647_DAPI_20x_071524_Cycle.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+D2 (mmD2),Adora2a,1,1hc0_7voeWx4BGGncdhE6fds1DOYtQrMz,67,950,293,19,0.9269,0.0165,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AGLij5E5XWwNUAyMUA1aTlg/D2/ISH_Adora2a?dl=0&e=1&preview=cjKatrin_Drd2Marm_Plate1D1_ADORA2A647_DAPI_20x_060824.tif&rlkey=azzm86dlj60kc7ztq8xek9096&st=c16gs5th&subfolder_nav_tracking=1
+D2 (mmD2),Adora2a,2,1bryA61fGV8hICNDVs9Y2FoA0PVDUsfOs,75,2447,668,11,0.964,0.0648,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AGLij5E5XWwNUAyMUA1aTlg/D2/ISH_Adora2a?dl=0&preview=cjKatrin_Drd2Marm_Plate3B1_ADORA2A647_DAPI_20x_071524_Cycle.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+D2 (mmD2),Drd2,1,1y3JrXDjF89RPLJZuDwyokodpXxaUhx2E,166,2834,1739,54,0.8977,0.0311,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AHgw5rTLWT5TVeodZlqfAmM/D2/ISH_Drd2?dl=0&preview=Stitch_cjKatrin_Drd2Marm_PlateEvenB3_aRFP555_Drd2647_DAPI_20x_071524_Cycle.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+D2 (mmD2),Drd2,2,1NclGHyTliLIYKW64GiRkd5Vi0lUoBdvN,238,2976,871,62,0.9164,0.0712,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AHgw5rTLWT5TVeodZlqfAmM/D2/ISH_Drd2?dl=0&preview=Stitch_cjKatrin_Drd2Marm_PlateEvenC3_aGFP488_Drd2647_DAPI_20x_071524_Cycle.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+DA (DAE4),antiTH,1,1BzmaUT9rRql9VBvw7PcGJjSf2fNzQ32u,433,3960,855,151,0.9092,0.033,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AG05ohJymJuW_5eNZn884nQ/DA/DA_E4-GFP_E8-RFP/antiTH?dl=0&e=1&preview=cjFlorian_FLM-WA1-S2_Nissl-405_cjDAE4-488_cjDAE8-555_aTH-647.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+DA (DAE4),antiTH,2,1Pu1AzhPcihr9sxmSYZsiaGuet6nDaKF-,94,3424,181,25,0.9787,0.0783,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AG05ohJymJuW_5eNZn884nQ/DA/DA_E4-GFP_E8-RFP/antiTH?dl=0&e=1&preview=cjFlorian_FLM-WC1-S1_Nissl-405_cjDAE4-488_cjDAE8-555_aTH-647.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+DA (DAE4),antiTH,3,1ZupixdSdKn-ROErAgoD6nr9LG2lTJC8h,225,4506,266,32,0.9545,0.082,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AG05ohJymJuW_5eNZn884nQ/DA/DA_E4-GFP_E8-RFP/antiTH?dl=0&e=1&preview=cjFlorian_FLM-WD1-S1_Nissl-405_cjDAE4-488_cjDAE8-555_aTH-647.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+DA (DAE4),antiTH,4,1JvfWr3W4ey9ojPx6kntn3HN9JA0PJwE3,47,4738,356,20,0.9938,0.0242,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AG05ohJymJuW_5eNZn884nQ/DA/DA_E4-GFP_E8-RFP/antiTH?dl=0&e=1&preview=cjFlorian_FRM-WA1-S2_Nissl-405_cjDAE4-488_cjDAE8-555_aTH-647.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+DA (DAE4),DAT,1,13dyvCYwsKFa0K_d7OAa3fQWPbFk7Tnh2,31,9293,369,21,0.9989,0.0569,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ADrplkBDHw7FT0pZzx2X230/DA/DA_E4-GFP_E8-RFP/ISH_DAT?dl=0&preview=cjFlorian_FLM-WB6-S1_Nissl-405_cjDAE4-488_cjDAE8-555_DAT-647_20X.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+DA (DAE4),DAT,2,1quAVTrMZrxrJg-dSyRyx-N8Qq4ZsELY0,53,8123,472,38,0.998,0.0805,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ADrplkBDHw7FT0pZzx2X230/DA/DA_E4-GFP_E8-RFP/ISH_DAT?dl=0&preview=cjFlorian_FLM-WC6-S1_Nissl-405_cjDAE4-488_cjDAE8-555_DAT-647_20X.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+DA (DAE4),DAT,3,1ak4FlrVIJXP4I7q46wagZ5iPMKQw1X9S,204,8054,663,97,0.9855,0.1463,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ADrplkBDHw7FT0pZzx2X230/DA/DA_E4-GFP_E8-RFP/ISH_DAT?dl=0&preview=cjFlorian_FLM-WD6-S1_Nissl-405_cjDAE4-488_cjDAE8-555_DAT-647_20X_1.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+DA (DAE4),DAT,4,1FyVMLK-sgiqpgqEM1mNFy3uInSoEmYKg,121,8252,657,88,0.9957,0.1339,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ADrplkBDHw7FT0pZzx2X230/DA/DA_E4-GFP_E8-RFP/ISH_DAT?dl=0&preview=cjFlorian_FLM-WD6-S1_Nissl-405_cjDAE4-488_cjDAE8-555_DAT-647_20X.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+DA (DAE8),antiTH,1,16Q8Xy4sfO5TgslT6nnsFL9C-AHmfo0Hk,101,3960,855,64,0.9881,0.0749,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AG05ohJymJuW_5eNZn884nQ/DA/DA_E4-GFP_E8-RFP/antiTH?dl=0&e=1&preview=cjFlorian_FLM-WA1-S2_Nissl-405_cjDAE4-488_cjDAE8-555_aTH-647.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+DA (DAE8),antiTH,2,1cE1rP3wGC6KXeXXcwEwImu3l0WPrVjB9,62,3424,181,21,0.9874,0.116,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AG05ohJymJuW_5eNZn884nQ/DA/DA_E4-GFP_E8-RFP/antiTH?dl=0&e=1&preview=cjFlorian_FLM-WC1-S1_Nissl-405_cjDAE4-488_cjDAE8-555_aTH-647.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+DA (DAE8),antiTH,3,1Vnn9SYA2S3-E4bgR9sQyoKcv1SWWUl_w,100,4506,266,30,0.9835,0.1128,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AG05ohJymJuW_5eNZn884nQ/DA/DA_E4-GFP_E8-RFP/antiTH?dl=0&e=1&preview=cjFlorian_FLM-WD1-S1_Nissl-405_cjDAE4-488_cjDAE8-555_aTH-647.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+DA (DAE8),antiTH,4,1UAx40K93N-oWFXqvVLbaLxmx8w4HsKNy,80,4738,356,33,0.9893,0.0927,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AG05ohJymJuW_5eNZn884nQ/DA/DA_E4-GFP_E8-RFP/antiTH?dl=0&e=1&preview=cjFlorian_FRM-WA1-S2_Nissl-405_cjDAE4-488_cjDAE8-555_aTH-647.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+DA (DAE8),DAT,1,1qEzgMCDcQ9zHY1LcY_4LvfNfa3uqCo1x,32,9293,369,15,0.9981,0.0407,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ADrplkBDHw7FT0pZzx2X230/DA/DA_E4-GFP_E8-RFP/ISH_DAT?dl=0&preview=cjFlorian_FLM-WB6-S1_Nissl-405_cjDAE4-488_cjDAE8-555_DAT-647_20X.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+DA (DAE8),DAT,2,1P2NGoAuXIMuxPqn-RRn-_ayYWyFLzz2N,68,8123,472,41,0.9965,0.0869,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ADrplkBDHw7FT0pZzx2X230/DA/DA_E4-GFP_E8-RFP/ISH_DAT?dl=0&preview=cjFlorian_FLM-WC6-S1_Nissl-405_cjDAE4-488_cjDAE8-555_DAT-647_20X.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+DA (DAE8),DAT,3,1HEx8qNx35wxKZCHl6KPp2Ou6KuCP_S0H,411,8054,663,103,0.9583,0.1554,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ADrplkBDHw7FT0pZzx2X230/DA/DA_E4-GFP_E8-RFP/ISH_DAT?dl=0&preview=cjFlorian_FLM-WD6-S1_Nissl-405_cjDAE4-488_cjDAE8-555_DAT-647_20X_1.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+DA (DAE8),DAT,4,1zj4IjMaa__xm04_3Nmv66tGz50dcRXk-,153,8252,657,107,0.9939,0.1629,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ADrplkBDHw7FT0pZzx2X230/DA/DA_E4-GFP_E8-RFP/ISH_DAT?dl=0&preview=cjFlorian_FLM-WD6-S1_Nissl-405_cjDAE4-488_cjDAE8-555_DAT-647_20X.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+FOXP2_RORB ( FOXP2_RORB_E4),antiRORB,1,1EQoFsOOQaDPT5kvNoBN-k_M014mwaPFY,318,6666,3322,167,0.9548,0.0503,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AAfll2PVR0kz34f_Sx7leCM/FOXP2_RORB/antiRORB_E4_E9?dl=0&e=1&preview=cjFlorian_FRC-WA4-S2_cjFOXP2-RORBE4-488_cjFOXP2-RORBE9-555_aRORB647_20X.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+FOXP2_RORB ( FOXP2_RORB_E4),antiRORB,2,17FnY173ZAAiAQ04HKW_q6kSWZObLJT9n,528,14178,6067,210,0.9608,0.0346,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AAfll2PVR0kz34f_Sx7leCM/FOXP2_RORB/antiRORB_E4_E9?dl=0&e=1&preview=cjFlorian_FRC-WB4-S2_cjFOXP2-RORBE4-488_cjFOXP2-RORBE9-555_aRORB647_20X.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+FOXP2_RORB ( FOXP2_RORB_E4),antiRORB,3,1pdYgYdunJE7716hAlk3bIy6sHZy44SIP,378,12376,3079,119,0.9721,0.0386,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AAfll2PVR0kz34f_Sx7leCM/FOXP2_RORB/antiRORB_E4_E9?dl=0&e=1&preview=cjFlorian_FRC-WC4-S2_cjFOXP2-RORBE4-488_cjFOXP2-RORBE9-555_aRORB647_20X.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+FOXP2_RORB ( FOXP2_RORB_E4),antiFOXP2,1,1txyDzPQPN78rmeMocwxpKG39JzXoXkBk,38,4155,1864,31,0.9969,0.0166,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AK-nrTVR3pbKAsCeRWsRGQg/FOXP2_RORB/antiFOXP2_E4_E9?dl=0&e=1&preview=cjFlorian_FRC-WB5-S2_cjFOXP2-RORBE4-488_cjFOXP2-RORBE9-555_aFOXP2-647_10X.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+FOXP2_RORB ( FOXP2_RORB_E4),antiFOXP2,2,1DZ9sKeUtZLGVzVrx-FjwxiIPhXg3VIn7,234,14026,6546,168,0.9912,0.0257,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AK-nrTVR3pbKAsCeRWsRGQg/FOXP2_RORB/antiFOXP2_E4_E9?dl=0&e=1&preview=cjFlorian_FRC-WC5-S2_cjFOXP2-RORBE4-488_cjFOXP2-RORBE9-555_aFOXP2-647_10X.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+FOXP2_RORB ( FOXP2_RORB_E4),antiFOXP2,3,1u90Y-AelGZPvxtx83QvfsagwlQbkrJWp,1114,15539,5118,499,0.941,0.0975,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AK-nrTVR3pbKAsCeRWsRGQg/FOXP2_RORB/antiFOXP2_E4_E9?dl=0&e=1&preview=MAX_cjFlorian_FRC-WA5-S2_cjFOXP2-RORBE4-488_cjFOXP2-RORBE9-555_aFOXP2-647_10X_fixed.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+FOXP2_RORB ( FOXP2_RORB_E9),antiRORB,1,1i4YYHnTPFTmFxmJA5UJRmWQs_ZkMQnpZ,766,6666,3322,221,0.837,0.0665,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AAfll2PVR0kz34f_Sx7leCM/FOXP2_RORB/antiRORB_E4_E9?dl=0&e=1&preview=cjFlorian_FRC-WA4-S2_cjFOXP2-RORBE4-488_cjFOXP2-RORBE9-555_aRORB647_20X.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+FOXP2_RORB ( FOXP2_RORB_E9),antiRORB,2,10O0d49TQi-5np3cYabtyQ9Wnohqw4fmG,294,14178,6067,70,0.9724,0.0115,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AAfll2PVR0kz34f_Sx7leCM/FOXP2_RORB/antiRORB_E4_E9?dl=0&e=1&preview=cjFlorian_FRC-WB4-S2_cjFOXP2-RORBE4-488_cjFOXP2-RORBE9-555_aRORB647_20X.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+FOXP2_RORB ( FOXP2_RORB_E9),antiRORB,3,1B8RvDjH70fMUjbhI0vLS1GUHqtc46EmF,1332,12376,3079,278,0.8866,0.0903,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AAfll2PVR0kz34f_Sx7leCM/FOXP2_RORB/antiRORB_E4_E9?dl=0&e=1&preview=cjFlorian_FRC-WC4-S2_cjFOXP2-RORBE4-488_cjFOXP2-RORBE9-555_aRORB647_20X.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+FOXP2_RORB ( FOXP2_RORB_E9),antiFOXP2,1,1tvCMRj7Xl5--7yZ0MykUfdAlRjLXCHBZ,19,4155,1864,17,0.9991,0.0091,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AK-nrTVR3pbKAsCeRWsRGQg/FOXP2_RORB/antiFOXP2_E4_E9?dl=0&e=1&preview=cjFlorian_FRC-WB5-S2_cjFOXP2-RORBE4-488_cjFOXP2-RORBE9-555_aFOXP2-647_10X.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+FOXP2_RORB ( FOXP2_RORB_E9),antiFOXP2,2,1nK3QV8Lxyap4jnCJz_T6YswM922Q61b1,141,14026,6546,92,0.9934,0.0141,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AK-nrTVR3pbKAsCeRWsRGQg/FOXP2_RORB/antiFOXP2_E4_E9?dl=0&e=1&preview=cjFlorian_FRC-WC5-S2_cjFOXP2-RORBE4-488_cjFOXP2-RORBE9-555_aFOXP2-647_10X.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+FOXP2_RORB ( FOXP2_RORB_E9),antiFOXP2,3,1mNieDt8jQZEaQeO3VFS7-opCn6eBGXLG,201,15539,5118,108,0.9911,0.0211,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AK-nrTVR3pbKAsCeRWsRGQg/FOXP2_RORB/antiFOXP2_E4_E9?dl=0&e=1&preview=MAX_cjFlorian_FRC-WA5-S2_cjFOXP2-RORBE4-488_cjFOXP2-RORBE9-555_aFOXP2-647_10X_fixed.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+PCBP3,antiPCBP3,1,12njZJliXgulVYDsxrYzXsjEIK5duuPfV,199,1947,483,130,0.9529,0.2692,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AGZgqYIj9DYeYa73_Li_Gy0/PCBP3/E5_antiPCBP3?dl=0&e=1&preview=cjFlorian_Nissl-405_E5-RFP_antiPCBP3-647_1.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+PCBP3,antiPCBP3,2,1wwzcazhFx94XMpRNyk2s5nnT3L3QruTs,214,1963,489,138,0.9484,0.2822,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AGZgqYIj9DYeYa73_Li_Gy0/PCBP3/E5_antiPCBP3?dl=0&e=1&preview=cjFlorian_Nissl-405_E5-RFP_antiPCBP3-647_2.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+PCBP3,antiPCBP3,3,1w_PjGtG5vDyfzMGYxPOsKsI7smSnwTEC,155,3593,470,109,0.9853,0.2319,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AGZgqYIj9DYeYa73_Li_Gy0/PCBP3/E5_antiPCBP3?dl=0&e=1&preview=cjFlorian_Nissl-405_E5-RFP_antiPCBP3-647_3.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+PCBP3,antiPCBP3,4,1FYknF47HerJDq4z-zhs5uZ2ZXjBG8lVv,72,1848,389,62,0.9931,0.1594,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AGZgqYIj9DYeYa73_Li_Gy0/PCBP3/E5_antiPCBP3?dl=0&e=1&preview=cjFlorian_Nissl-405_E5-RFP_antiPCBP3-647_4.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+PCBP3,GAD,1,1MyTGUacGNuFMbFf6sc9WUoroOWOvlJbL,70,421,158,52,0.9316,0.3291,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AK_hcIaDXzBxLnlgmOsA2Jg/PCBP3/E5_ISH-GAD?dl=0&e=1&preview=cjFlorian_DAPI-405_E5-RFP_GAD1-ISH-647_1.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+PCBP3,GAD,2,1t_VvpK7vDbUVKhEFUW3hFjkAcINBlR3M,22,352,185,17,0.9701,0.0919,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AK_hcIaDXzBxLnlgmOsA2Jg/PCBP3/E5_ISH-GAD?dl=0&e=1&preview=cjFlorian_DAPI-405_E5-RFP_GAD1-ISH-647_2.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+PCBP3,GAD,3,1j6UeO03NmV8RB9qd7GPXTPM-Qz0DPO2y,14,256,206,12,0.96,0.0583,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AK_hcIaDXzBxLnlgmOsA2Jg/PCBP3/E5_ISH-GAD?dl=0&e=1&preview=cjFlorian_DAPI-405_E5-RFP_GAD1-ISH-647_3.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+PCBP3,GAD,4,1yPI2rAbJZIdej-jF3nA00XTr6knrKMJ7,33,376,241,29,0.9704,0.1203,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AK_hcIaDXzBxLnlgmOsA2Jg/PCBP3/E5_ISH-GAD?dl=0&e=1&preview=cjFlorian_DAPI-405_E5-RFP_GAD1-ISH-647_4.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+PCBP3,GAD,5,1bvKf7S2DGcjdKRMWIS7S1TE3KDbsd0HH,42,369,35,20,0.9341,0.5714,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AK_hcIaDXzBxLnlgmOsA2Jg/PCBP3/E5_ISH-GAD?dl=0&e=1&preview=cjFlorian_DAPI-405_E5-RFP_GAD1-ISH-647_5.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+PCBP3,GAD,6,1oh1zPJG7TlxNTXSmXP6zytfmpp72wOTA,164,643,293,98,0.8114,0.3345,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AK_hcIaDXzBxLnlgmOsA2Jg/PCBP3/E5_ISH-GAD?dl=0&e=1&preview=cjFlorian_DAPI-405_E5-RFP_GAD1-ISH-647_6.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+SST_E2,SST,1,1k6h9HUUb5Gc7-hPrnO1iU8cGNUWfliBW,43,2062,19,13,0.9853,0.6842,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ANrA_jMW1h_47TZjIMckHGg/SST/ISH_SST_E2?dl=0&e=1&preview=MAX_cjWilly_LCtx_Plate1B2_SST647_aGFP488_20xZStack_A01_G001_0018.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+SST_E2,SST,2,1Gwg2pjR35DDmtnpKOkzg615B7XT5zwq3,11,1734,13,6,0.9971,0.4615,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ANrA_jMW1h_47TZjIMckHGg/SST/ISH_SST_E2?dl=0&e=1&preview=MAX_cjWilly_LCtx_Plate1B2_SST647_aGFP488_20xZStack_A01_G001_0020.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+SST_E2,SST,3,1Kx3QLXLy1QgmXoHC-X2WRR3p7XeCFnhQ,2,992,100,2,1,0.02,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ANrA_jMW1h_47TZjIMckHGg/SST/ISH_SST_E2?dl=0&e=1&preview=MAX_cjWilly_LCtx_Plate1B2_SST647_aGFP488_20xZStack_A01_G001_0022.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+SST_E2,SST,4,1t6M_q7DAtrRfE8kjJX_ObL5x2mnyyjDG,49,1914,16,5,0.9752,0.125,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ANrA_jMW1h_47TZjIMckHGg/SST/ISH_SST_E2?dl=0&e=1&preview=MAX_cjWilly_LCtx_Plate1B2_SST647_aGFP488_20xZStack_A01_G001_0023.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+SST_E2,SST,5,1gV5vbozbvmsGZD0EWgWxqZAnxScicoOu,14,1276,18,9,0.996,0.5,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ANrA_jMW1h_47TZjIMckHGg/SST/ISH_SST_E2?dl=0&e=1&preview=MAX_cjWilly_LHemiCtx_Plate1A1S1_aGFP488_SST647_20xZStack_A01_G001_0019.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+SST_E2,SST,6,1LhG4UYZRUO_fMxLBVAp3j5CC-wjLnyGK,9,1256,17,7,0.9984,0.4118,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ANrA_jMW1h_47TZjIMckHGg/SST/ISH_SST_E2?dl=0&e=1&preview=MAX_cjWilly_LHemiCtx_Plate1A1S1_aGFP488_SST647_20xZStack_A01_G001_0021.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+SST_E2,SST,7,1hIqFFFIFx7KiIRF0XJ87p7hz_uBG1-5w,16,1344,14,11,0.9962,0.7857,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ANrA_jMW1h_47TZjIMckHGg/SST/ISH_SST_E2?dl=0&e=1&preview=MAX_cjWilly_LHemiCtx_Plate1A1S1_aGFP488_SST647_20xZStack_A01_G001_0022.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+SST_E2,SST,8,1Id16WjtwmzqoPpFGgny1FMQ9UXBGIjTf,19,1262,23,11,0.9935,0.4783,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ANrA_jMW1h_47TZjIMckHGg/SST/ISH_SST_E2?dl=0&e=1&preview=MAX_cjWilly_LHemiCtx_Plate1A1S1_aGFP488_SST647_20xZStack_A01_G001_0023.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+SST_E2,Calbindin,1,1TyV5HG3ZMFn_iKsSVOonZJr3XC5Y9FU3,58,1172,185,11,0.9524,0.0595,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ANzy1pzzkBeW9CJBl1fLQlE/SST/SST_E2_secondary_marker_Calbindin?dl=0&e=1&preview=MAX_cjWilly_LCtx_Plate2C2_Nissl-+SST_E2-aCalbindin647_10xStack_A01_G001_0001.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+SST_E2,Calbindin,2,1S2rBsZe3h31i01RcC-b3Xv4bA-7JK435,104,453,94,40,0.8217,0.4255,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ANzy1pzzkBeW9CJBl1fLQlE/SST/SST_E2_secondary_marker_Calbindin?dl=0&e=1&preview=MAX_cjWilly_LCtx_Plate2C2_Nissl-SST_E2-aCalbindin647_20xStackSingle_0002.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+SST_E2,Calbindin,3,1JwNAxyKzfRFBbMfaSBBg2OExExQ_xsmR,126,462,101,40,0.7618,0.396,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ANzy1pzzkBeW9CJBl1fLQlE/SST/SST_E2_secondary_marker_Calbindin?dl=0&e=1&preview=MAX_cjWilly_LCtx_Plate2C2_Nissl-SST_E2-aCalbindin647_20xStackSingle_0003.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+Tandem,TAC3,1,1d2-g21riEMhRlA9v_4jjIwwYUibiNv4C,5,48,5,5,1,1,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AICWfebVEQaLYcInSyMGQFU/TAC3?dl=0&e=1&preview=-aug1622_TAC3_GFP_647_40x_stack-maxintensity-DAPI-TAC3_tandemEnhancer-TAC3_FISH.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+Tandem,TAC3,2,1zBr3fPJ6W38sE7sBj86iOCazmLaUk6qz,33,208,37,4,0.8304,0.1081,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AICWfebVEQaLYcInSyMGQFU/TAC3?dl=0&e=1&preview=20230203_CJSchnitzel_Tac3_40X--FOV_01458-A647_DAPI-TAC3_tandemEnhancer-TAC3_FISH.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+Tandem,TAC3,3,1BTt1vQKFiHKKbuoCJ98t6J2bzThB7AAw,21,266,34,4,0.9267,0.1176,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AICWfebVEQaLYcInSyMGQFU/TAC3?dl=0&e=1&preview=20230203_CJSchnitzel_Tac3_DRD1_DRD2_40X--FOV+01475-DAPI-TAC3_tandemEnhancer-TAC3_FISH.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+BCL11b,CTIP2,1,1R_NWOxOnu0Q0PLgWzmUMfBXy0Ygt9Tgo,16,730,279,6,0.9778,0.0215,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AGTVo3eIRKO9LjxtMNoqhPg/BCL11b/BCL11b_primary_marker_CTIP2?dl=0&preview=cjIngrid_layer5_example_20x_DAPI_aGFP-BCL11b-E4_aCTIP2.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+BCL11b,CTIP2,2,1gYY1odQ37Zq7amii3XYdeK6D4Jycb4-o,4,900,237,4,1,0.0169,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AGTVo3eIRKO9LjxtMNoqhPg/BCL11b/BCL11b_primary_marker_CTIP2?dl=0&preview=MAX_cjFog_RCtx_Plate2C1_DAPI_BCL11bE4gfp-aCTIP2647_20xZStack.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+BCL11b,CTIP2,3,12VrNpKyaqP_vPimGLA7hcgDz1rT04kJa,35,517,134,23,0.9687,0.1716,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AGTVo3eIRKO9LjxtMNoqhPg/BCL11b/BCL11b_primary_marker_CTIP2?dl=0&preview=MAX_cjIngrid_PostPlate1A1_DAPI_aGFP488-BCL11b-E4_aCTIP2647_10xZStack_040824.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+BCL11b,FOXP2,1,1gQGtIjSq3t63JkighOXka7_oDp2TLZN6,21,2820,2440,17,0.9895,0.007,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AH5WLJBRrBjZmHs9O8bFpF0/BCL11b/BCL11b_secondary_marker_FOXP2?dl=0&e=1&preview=MAX_cjFog_RCtx_Plate2A4_DAPI-BCL11b_E4-aFOXP2647_10xStack_A01_G001_0001.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+BCL11b,FOXP2,2,1mn9WVs8y3tZI1wUgt4tcHvLwzHXmGivR,108,3136,2221,86,0.976,0.0387,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/AH5WLJBRrBjZmHs9O8bFpF0/BCL11b/BCL11b_secondary_marker_FOXP2?dl=0&e=1&preview=MAX_cjFog_RCtx_Plate2A4_DAPI-BCL11b_E4-aFOXP2647_10xStack_A01_G001_0002.tif&rlkey=azzm86dlj60kc7ztq8xek9096
+CHAT,RiceE1-primary,1,1KzHWNDj91HiH9MzbqFbuwvvjB7ievGuf,12,1317,11,0,0.9908,0,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ADwxItyYtkJ7eDK2sMvTdb8/CHAT/CHAT-RicE1-aCHAT_primary_marker?dl=0&preview=MAX_cjSatsuma_ChATSysInj_DAPI_-CHAT_E1_aChAT647_20xStack_0001.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+CHAT,RiceE1-primary,2,18nY_inDAvF4nHwGXGars4U5ycyfrpCph,2,1206,12,1,0.9992,0.0833,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ADwxItyYtkJ7eDK2sMvTdb8/CHAT/CHAT-RicE1-aCHAT_primary_marker?dl=0&preview=MAX_cjSatsuma_ChATSysInj_DAPI_-CHAT_E1_aChAT647_20xStack_0002.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+CHAT,RiceE1-primary,3,1cvJjeHe7B0s5qJ9aYBzV436Libnxh12q,2,1185,7,1,0.9992,0.1429,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ADwxItyYtkJ7eDK2sMvTdb8/CHAT/CHAT-RicE1-aCHAT_primary_marker?dl=0&preview=MAX_cjSatsuma_ChATSysInj_DAPI_-CHAT_E1_aChAT647_20xStack_0004.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+CHAT,RiceE1-primary,4,1yX6H9c5g3V3RstvD_tnkPpl9xZCt4IVN,22,1123,13,0,0.9802,0,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ADwxItyYtkJ7eDK2sMvTdb8/CHAT/CHAT-RicE1-aCHAT_primary_marker?dl=0&preview=MAX_cjSatsuma_ChATSysInj_DAPI_-CHAT_E1_aChAT647_20xStack.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+CHAT,RiceE1-primary,5,1YI75w4oKtstLcqXNFPfvHru9BNqw29rC,2,3550,10,0,0.9994,0,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ADwxItyYtkJ7eDK2sMvTdb8/CHAT/CHAT-RicE1-aCHAT_primary_marker?dl=0&preview=MAX_cjSatsuma_ChATSysInj_Plate1A1S1_DAPI_CHAT_E1_aChAT647_10xStack_A01_G001_0009.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+CHAT,RiceE1-primary,6,12BrRqmaau-RFh4NbRsJDOqkgZzEDZgXl,3,3390,14,1,0.9994,0.0714,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ADwxItyYtkJ7eDK2sMvTdb8/CHAT/CHAT-RicE1-aCHAT_primary_marker?dl=0&preview=MAX_cjSatsuma_ChATSysInj_Plate1A1S1_DAPI_CHAT_E1_aChAT647_10xStack_A01_G001_0012.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+CHAT,RiceE1-primary,7,1GCBLiR8TG0tY8Wtzp8Nk4kAnlhwm1zXe,57,3511,11,3,0.9846,0.2727,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ADwxItyYtkJ7eDK2sMvTdb8/CHAT/CHAT-RicE1-aCHAT_primary_marker?dl=0&preview=MAX_cjSatsuma_ChATSysInj_Plate1A1S1DAPI_CHAT_E1_aChAT647_10xStack_A01_G001_0010.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+CHAT,RiceE1-primary,8,1QoS5WK3WAV3TB_r_tLZof3kucmL4HWX-,1,3605,9,1,1,0.1111,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ADwxItyYtkJ7eDK2sMvTdb8/CHAT/CHAT-RicE1-aCHAT_primary_marker?dl=0&preview=MAX_cjSatsuma_ChATSysInj_Plate1A1S1DAPI_CHAT_E1_aChAT647_10xStack_A01_G001_0014.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+CHAT,RiceE1-primary,9,1dFwz_UV7zLHyLxzFaSCqCPhKmhrqRxuS,2,3636,27,2,1,0.0741,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ADwxItyYtkJ7eDK2sMvTdb8/CHAT/CHAT-RicE1-aCHAT_primary_marker?dl=0&preview=MAX_cjSatsuma_ChATSysInj_Plate1A1S2DAPI_CHAT_E1_aChAT647_10xStack_A01_G001_0009.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+CHAT,RiceE1-primary,10,1ggqq20kEeVFcLCHSefKVj1QCCjGBjPJx,4,3361,33,1,0.9991,0.0303,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ADwxItyYtkJ7eDK2sMvTdb8/CHAT/CHAT-RicE1-aCHAT_primary_marker?dl=0&preview=MAX_cjSatsuma_ChATSysInj_Plate1B1S1_DAPI_-CHAT_E1_aChAT647_10xStack_A01_G001_0015.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+CHAT,RiceE1-primary,11,1C7rhcOSphP2sDbUhwjAd2kbsMD8VDSLv,5,3386,22,1,0.9988,0.0455,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ADwxItyYtkJ7eDK2sMvTdb8/CHAT/CHAT-RicE1-aCHAT_primary_marker?dl=0&preview=MAX_cjSatsuma_ChATSysInj_Plate1B1S1_DAPI_CHAT_E1_aChAT647_10xStack_A01_G001_0004.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+CHAT,RiceE1-primary,12,1cR-rK-orsSmh4U4XOyitX8RzEf1oU4Jm,3,3590,13,1,0.9994,0.0769,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ADwxItyYtkJ7eDK2sMvTdb8/CHAT/CHAT-RicE1-aCHAT_primary_marker?dl=0&preview=MAX_cjSatsuma_ChATSysInj_Plate1B1S1_DAPI_CHAT_E1_aChAT647_10xStack_A01_G001_0005.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+CHAT,RiceE1-secondary,1,1FhlDsD6Pv38fdQwooG13z2cZWWhS7aSd,9,3110,6,1,0.9974,0.1667,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ANBWPEiFeLFAcSwmP6Rb2vg/CHAT/CHAT-RicE1-secondary_marker?dl=0&preview=MAX_cjSatsuma_ChATSysInj_DAPI_CHAT-E1_aVAChT647_10xStack_A01_G001_0004.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+CHAT,RiceE1-secondary,2,12nssD8oVxmW_gEm-nQ86kC1jZdVKOaVg,15,3559,2,0,0.9958,0,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ANBWPEiFeLFAcSwmP6Rb2vg/CHAT/CHAT-RicE1-secondary_marker?dl=0&preview=MAX_cjSatsuma_ChATSysInj_DAPI_CHAT-E1_aVAChT647_10xStack_A01_G001_0012.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+CHAT,RiceE1-secondary,3,1gYyisA9BQeSAOYz1TyhtF__8SpLOnUm9,1,3215,20,1,1,0.05,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ANBWPEiFeLFAcSwmP6Rb2vg/CHAT/CHAT-RicE1-secondary_marker?dl=0&preview=MAX_cjSatsuma_ChATSysInj_Plate2B2_DAPI_CHAT-E1_aVAChT647_10xStack_Cycle_A01_G001_0003.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+CHAT,RiceE1-secondary,4,1TsPYHJ6rnCM2TaRuV359IZf7VvTvH0rY,4,3771,23,1,0.9992,0.0435,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ANBWPEiFeLFAcSwmP6Rb2vg/CHAT/CHAT-RicE1-secondary_marker?dl=0&preview=MAX_cjSatsuma_ChATSysInj_Plate2B2_DAPI_CHAT-E1_aVAChT647_10xStack_Cycle_A01_G001_0006.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+CHAT,RiceE1-secondary,5,1nzDo-sG6V1dJUeOqPmaysVYeh11yuMHM,3,2646,32,2,0.9996,0.0625,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ANBWPEiFeLFAcSwmP6Rb2vg/CHAT/CHAT-RicE1-secondary_marker?dl=0&preview=MAX_cjSatsuma_ChATSysInj_Plate2B2_DAPI_CHAT-E1-aVAChT647_10xStack_Cycle_A01_G001_0011.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
+CHAT,RiceE1-secondary,6,1qqUVijImvlxvartcc_MZqhCvsokAmXGq,8,1441,13,0,0.9944,0,https://www.dropbox.com/scl/fo/sbl3vykcc8vme0ijab5hv/ANBWPEiFeLFAcSwmP6Rb2vg/CHAT/CHAT-RicE1-secondary_marker?dl=0&e=1&preview=MAX_cjSatsuma_ChATSysInj_Plate2B2_DAPI-CHAT-E1_aVAChT647_10xStack_Cycle_A01_G001_0004.tif&rlkey=azzm86dlj60kc7ztq8xek9096&subfolder_nav_tracking=1
