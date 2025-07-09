@@ -29,7 +29,7 @@ where, $$TP = \|E \bigcap M\|$$, $$FN = \|D - M\| - TP$$, $$TN = \|D\| - \|M\| -
 
 $$\|E\|$$  is the number of cells marked by the enhancer virus, $$\|M\|$$ is the number of marker-labelled cells, and $$\|D\|$$ is the number of cells marked by DAPI.
 
-The following formula has been derived based on the \"Sensitivity and specificity\" calculations stated in the [Wikipedia](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
+The following formula has been derived based on the [\"Sensitivity and specificity\"](https://en.wikipedia.org/wiki/Sensitivity_and_specificity) calculations.
 
 TP, FP, FN and TN are the numbers of True-positives, False-positives, False-negatives and True-negatives, respectively, as per standard definitions.
 
@@ -50,7 +50,12 @@ Column 1: Enhancer;  Column 2: Marker;  Column 3: Sample #;  Column 4: |E|;
     return `https://drive.google.com/file/d/${fileId}/view?usp=sharing`;
   }
 
-  // Fetch CSV and render table with clickable thumbnails
+  // Convert Dropbox share link to direct download
+  function dropboxDownloadURL(url) {
+    // replace dl=0 with dl=1 for direct download
+    return url.replace(/dl=0/, 'dl=1');
+  }
+
   fetch('/assets/data/example2.csv')
     .then(res => res.text())
     .then(csv => {
@@ -71,14 +76,21 @@ Column 1: Enhancer;  Column 2: Marker;  Column 3: Sample #;  Column 4: |E|;
             html += `<tr style="background:${i % 2 === 0 ? '#fff' : '#f9f9f9'};">`;
             Object.entries(row).forEach(([key, cell]) => {
               let content = cell;
-              // Render clickable square thumbnails for Thumbnail/ThumbnailID
+
+              // Thumbnail column: Google Drive
               if ((key === 'Thumbnail' || key === 'ThumbnailID') && cell) {
                 const thumbUrl = driveThumbnailURL(cell);
                 const viewUrl = driveViewURL(cell);
                 content = `<a href="${viewUrl}" target="_blank" rel="noopener noreferrer">
                               <img src="${thumbUrl}" width="80" height="80" style="object-fit:cover;border-radius:4px;" alt="thumb"/>
                            </a>`;
+
+              // Composite Images column: Dropbox download link
+              } else if (key === 'Composite Images' && cell) {
+                const dlUrl = dropboxDownloadURL(cell);
+                content = `<a href="${dlUrl}" download target="_blank" rel="noopener noreferrer">Download</a>`;
               }
+
               html += `<td style="padding:8px;border:1px solid #ddd;text-align:center;">${content}</td>`;
             });
             html += '</tr>';
