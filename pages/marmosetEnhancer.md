@@ -71,7 +71,7 @@ Column 1: Enhancer;  Column 2: Marker;  Column 3: Sample #;  Column 4: |E|;
               // Render image for Thumbnail or ThumbnailID column
               if ((key === 'Thumbnail' || key === 'ThumbnailID') && cell) {
                 const thumbUrl = driveThumbnailURL(cell, 80);
-                content = `<img src="${thumbUrl}" width="80" style="border-radius:4px;" alt="thumb"/>`;
+                content = `<img src="${thumbUrl}" width="80" height="80" style="border-radius:4px;" alt="thumb"/>`;
               }
               html += `<td style="padding:8px;border:1px solid #ddd;text-align:center;">${content}</td>`;
             });
