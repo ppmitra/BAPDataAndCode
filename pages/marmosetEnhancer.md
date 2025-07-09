@@ -42,12 +42,15 @@ Column 1: Enhancer;  Column 2: Marker;  Column 3: Sample #;  Column 4: |E|;
 
 <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
 <script>
-  // Build Google Drive thumbnail URL from file ID
+  // Build Google Drive URLs from file ID
   function driveThumbnailURL(fileId, size = 80) {
     return `https://drive.google.com/thumbnail?id=${fileId}&sz=${size}`;
   }
+  function driveViewURL(fileId) {
+    return `https://drive.google.com/file/d/${fileId}/view?usp=sharing`;
+  }
 
-  // Fetch CSV and render table with thumbnails
+  // Fetch CSV and render table with clickable thumbnails
   fetch('/assets/data/example2.csv')
     .then(res => res.text())
     .then(csv => {
@@ -68,10 +71,13 @@ Column 1: Enhancer;  Column 2: Marker;  Column 3: Sample #;  Column 4: |E|;
             html += `<tr style="background:${i % 2 === 0 ? '#fff' : '#f9f9f9'};">`;
             Object.entries(row).forEach(([key, cell]) => {
               let content = cell;
-              // Render image for Thumbnail or ThumbnailID column
+              // Render clickable square thumbnails for Thumbnail/ThumbnailID
               if ((key === 'Thumbnail' || key === 'ThumbnailID') && cell) {
-                const thumbUrl = driveThumbnailURL(cell, 80);
-                content = `<img src="${thumbUrl}" width="80" height="80" style="border-radius:4px;" alt="thumb"/>`;
+                const thumbUrl = driveThumbnailURL(cell);
+                const viewUrl = driveViewURL(cell);
+                content = `<a href="${viewUrl}" target="_blank" rel="noopener noreferrer">
+                              <img src="${thumbUrl}" width="80" height="80" style="object-fit:cover;border-radius:4px;" alt="thumb"/>
+                           </a>`;
               }
               html += `<td style="padding:8px;border:1px solid #ddd;text-align:center;">${content}</td>`;
             });
