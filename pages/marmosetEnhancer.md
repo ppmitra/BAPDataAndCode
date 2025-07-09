@@ -59,7 +59,7 @@ Column 1: Enhancer;  Column 2: Marker;  Column 3: Sample #;  Column 4: |E|;
   }
 
   // Fetch CSV and render table
-  fetch('/assets/data/example.csv')
+  fetch('/assets/data/example2.csv')
     .then(res => res.text())
     .then(csv => {
       Papa.parse(csv, {
