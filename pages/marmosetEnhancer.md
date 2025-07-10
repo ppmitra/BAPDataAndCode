@@ -21,6 +21,14 @@ True-positives are calculated within a distance of 10 pixels from the marker. Th
 
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=default'></script>
 
+The following formula has been derived based on the [\"Sensitivity and specificity\"](https://en.wikipedia.org/wiki/Sensitivity_and_specificity) definitions, where
+
+$$sensitivity = \frac{number\ of\ true\ positives}{𝑛𝑢𝑚𝑏𝑒𝑟\ 𝑜𝑓\ 𝑡𝑟𝑢𝑒\ 𝑝𝑜𝑠𝑖𝑡𝑖𝑣𝑒𝑠 + 𝑛𝑢𝑚𝑏𝑒𝑟\ 𝑜𝑓\ 𝑓𝑎𝑙𝑠𝑒\ 𝑛𝑒𝑔𝑎𝑡𝑖𝑣𝑒𝑠}$$
+
+$$specificity = \frac{𝑛umber\ 𝑜𝑓\ 𝑡𝑟𝑢𝑒\ 𝑛𝑒𝑔𝑎𝑡𝑖𝑣𝑒𝑠}{𝑛𝑢𝑚𝑏𝑒𝑟\ 𝑜𝑓\ 𝑡𝑟𝑢𝑒\ 𝑛𝑒𝑔𝑎𝑡𝑖𝑣𝑒𝑠 + 𝑛𝑢𝑚𝑏𝑒𝑟\ 𝑜𝑓\ 𝑓𝑎𝑙𝑠𝑒\ 𝑝𝑜𝑠𝑖𝑡𝑖𝑣𝑒𝑠}$$   
+
+Thus, the specificity and sensitivity are calculated as follows:
+
 $$sensitivity = \frac{\|E \bigcap M\|}{\|M\|}$$
 
 $$specificity = \frac{\|D\| - \|M\| - \|E\| + TP}{\|D\| - \|M\|}$$   
@@ -28,8 +36,6 @@ $$specificity = \frac{\|D\| - \|M\| - \|E\| + TP}{\|D\| - \|M\|}$$
 where, $$TP = \|E \bigcap M\|$$, $$FN = \|D - M\| - TP$$, $$TN = \|D\| - \|M\| - \|E\| + TP$$, and
 
 $$\|E\|$$  is the number of cells marked by the enhancer virus, $$\|M\|$$ is the number of marker-labelled cells, and $$\|D\|$$ is the number of cells marked by DAPI.
-
-The following formula has been derived based on the [\"Sensitivity and specificity\"](https://en.wikipedia.org/wiki/Sensitivity_and_specificity) calculations.
 
 TP, FP, FN and TN are the numbers of True-positives, False-positives, False-negatives and True-negatives, respectively, as per standard definitions.
 
