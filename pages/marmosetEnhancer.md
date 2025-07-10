@@ -17,21 +17,21 @@ An example of the enhancer PCBP3 is shown here.
   <div style="margin-top:0.5em; color:#555; font-size:1em;"><strong>Figure:</strong> Combined image for 3 channels: Ch2 = enhancer PCBP3, Ch3 = marker anti-PCBP3, Ch1 = DAPI.</div>
 </div>
 
-True-positives are calculated within a distance of 10 pixels from the marker. The specificity and sensitivity are calculated as follows:
+True-positives are calculated within a distance of 10 pixels from the marker. 
 
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=default'></script>
 
 The following formula has been derived based on the [\"Sensitivity and specificity\"](https://en.wikipedia.org/wiki/Sensitivity_and_specificity) definitions, where
 
-$$sensitivity = \frac{number\ of\ true\ positives}{𝑛𝑢𝑚𝑏𝑒𝑟\ 𝑜𝑓\ 𝑡𝑟𝑢𝑒\ 𝑝𝑜𝑠𝑖𝑡𝑖𝑣𝑒𝑠 + 𝑛𝑢𝑚𝑏𝑒𝑟\ 𝑜𝑓\ 𝑓𝑎𝑙𝑠𝑒\ 𝑛𝑒𝑔𝑎𝑡𝑖𝑣𝑒𝑠}$$
+$$ sensitivity = \frac{number\ of\ true\ positives}{𝑛𝑢𝑚𝑏𝑒𝑟\ 𝑜𝑓\ 𝑡𝑟𝑢𝑒\ 𝑝𝑜𝑠𝑖𝑡𝑖𝑣𝑒𝑠 + 𝑛𝑢𝑚𝑏𝑒𝑟\ 𝑜𝑓\ 𝑓𝑎𝑙𝑠𝑒\ 𝑛𝑒𝑔𝑎𝑡𝑖𝑣𝑒𝑠}$$
 
-$$specificity = \frac{𝑛umber\ 𝑜𝑓\ 𝑡𝑟𝑢𝑒\ 𝑛𝑒𝑔𝑎𝑡𝑖𝑣𝑒𝑠}{𝑛𝑢𝑚𝑏𝑒𝑟\ 𝑜𝑓\ 𝑡𝑟𝑢𝑒\ 𝑛𝑒𝑔𝑎𝑡𝑖𝑣𝑒𝑠 + 𝑛𝑢𝑚𝑏𝑒𝑟\ 𝑜𝑓\ 𝑓𝑎𝑙𝑠𝑒\ 𝑝𝑜𝑠𝑖𝑡𝑖𝑣𝑒𝑠}$$   
+$$ specificity = \frac{𝑛umber\ 𝑜𝑓\ 𝑡𝑟𝑢𝑒\ 𝑛𝑒𝑔𝑎𝑡𝑖𝑣𝑒𝑠}{𝑛𝑢𝑚𝑏𝑒𝑟\ 𝑜𝑓\ 𝑡𝑟𝑢𝑒\ 𝑛𝑒𝑔𝑎𝑡𝑖𝑣𝑒𝑠 + 𝑛𝑢𝑚𝑏𝑒𝑟\ 𝑜𝑓\ 𝑓𝑎𝑙𝑠𝑒\ 𝑝𝑜𝑠𝑖𝑡𝑖𝑣𝑒𝑠}$$   
 
 Thus, the specificity and sensitivity are calculated as follows:
 
-$$sensitivity = \frac{\|E \bigcap M\|}{\|M\|}$$
+$$ sensitivity = \frac{\|E \bigcap M\|}{\|M\|}$$
 
-$$specificity = \frac{\|D\| - \|M\| - \|E\| + TP}{\|D\| - \|M\|}$$   
+$$ specificity = \frac{\|D\| - \|M\| - \|E\| + TP}{\|D\| - \|M\|}$$   
 
 where, $$TP = \|E \bigcap M\|$$, $$FN = \|D - M\| - TP$$, $$TN = \|D\| - \|M\| - \|E\| + TP$$, and
 
@@ -41,7 +41,6 @@ TP, FP, FN and TN are the numbers of True-positives, False-positives, False-nega
 
 <p align="center">
 <strong>Table.</strong> Results for specificity and sensitivity per image:  
-Column 1: Enhancer;  Column 2: Marker;  Column 3: Sample #;  Column 4: |E|;  Column 5: |D|;  Column 6: |M|;  Column 7: TP;  Column 8: Specificity;  Column 9: Sensitivity.
 </p>
 
 <div id="enhancer-table-container" style="overflow-x:auto; margin:2em 0;"></div>
