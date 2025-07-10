@@ -40,7 +40,7 @@ $$\|E\|$$  is the number of cells marked by the enhancer virus, $$\|M\|$$ is the
 TP, FP, FN and TN are the numbers of True-positives, False-positives, False-negatives and True-negatives, respectively, as per standard definitions.
 
 <p align="center">
-<strong>Table.</strong> Results for specificity and sensitivity per image:  
+<strong>Table.</strong> Results for specificity and sensitivity per image. The Calculations of the sensitivity and sensitivity is based on the code available on [GitHub](https://github.com/MitraLab-Organization/Sensitivity-and-Specificity-Calculation/tree/main). The Data is available for dowenload as Bioformat images in the last column or as channel-wise images as shown in the thumbnail [here](https://drive.google.com/drive/folders/1jow6-PwMH-pGd_4WXsnIezbj2LBiIAbP?usp=drive_link)
 </p>
 
 <div id="enhancer-table-container" style="overflow-x:auto; margin:2em 0;"></div>
