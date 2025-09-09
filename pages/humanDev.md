@@ -15,7 +15,7 @@ Resources for our Cell Detection and Data for the Human Developing Brain
 - Model_1 (MEDIAR) Code [Link to Github](https://github.com/samik1986/Mediar_4_devBrain)
 - Model_2 (Multistream Cell Segmentation) Code [Link to Github](https://github.com/samik1986/MultiStreamCellSeg_4_devBrain)
 - Repo for Evaluation and Colab notebooks to run the above codes [Link to Github](https://github.com/samik1986/3D_Developing_brain)
-
+- Registration [Link to GitHub](https://github.com/twardlab/emlddmm)
 
 ## Data Samples for Cell Detection
 - Training Data [Tiles](https://drive.google.com/drive/folders/1qrxYiWnAFq-FSSNSZLkM3BBh4WkL6Bm4?usp=sharing) [Centers](https://drive.google.com/drive/folders/1qigPdISRbKwwqrZrBr0pD3JiIIOJJyTH?usp=drive_link)
