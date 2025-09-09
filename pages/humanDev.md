@@ -19,9 +19,9 @@ Resources for our Cell Detection and Data for the Human Developing Brain
 - Visualization Tools & Utilities [Link to Github](https://github.com/MitraLab-Organization/2D-Skeletonization/tree/main/Utilities)
 
 ## Data Samples for Cell Detection
-- Training Data Data [Link](https://drive.google.com/file/d/1Izmf4D7eJV13S11ffSIhOzhaTjlkzYt_/view?usp=sharing)
-- Test Data [Link](https://drive.google.com/file/d/1j_IkIHCJkFBkGadvUz24_1W1XqpKDiaF/view?usp=sharing)
-- Detections [Likelihood](https://drive.google.com/file/d/1I7BCvxPcZ7XLPyxDrcdPebwy7QJrvLK2/view?usp=drive_link) [Original](https://drive.google.com/file/d/1azSahB9rP_YRr_GIXgaaex5YQAc16FKz/view?usp=drive_link)
+- Training Data [Tiles](https://drive.google.com/drive/folders/1qrxYiWnAFq-FSSNSZLkM3BBh4WkL6Bm4?usp=sharing) [Centers](https://drive.google.com/drive/folders/1qigPdISRbKwwqrZrBr0pD3JiIIOJJyTH?usp=drive_link)
+- Test Data [Tiles](https://drive.google.com/drive/folders/1dcMZ1FuV5T3blHvw-TKpaYrfB2Lklduj?usp=drive_link) [Ground-truth](https://drive.google.com/drive/folders/18xQuiyEoVnJtudDLrIlstK0WBABAVfyf?usp=drive_link)
+- Detected Centers [Proposed](https://drive.google.com/drive/folders/1OB4a1yEg8ziYo7y8Hcf6Fi9aP90kY1So?usp=drive_link) [Model 1](https://drive.google.com/drive/folders/1enRSOZbYKYJVlKT0R_cMktazLaDuDn10?usp=drive_link) [Model 2](https://drive.google.com/drive/folders/1KATuuxbXPvYDQLP1rSVI8VuNbJ04fCXZ?usp=drive_link)
 
 ## Publications 
 - Partha Mitra, Jaikishan Jayakumar, Mohanasankar Sivaprakasam et al. A three-dimensional histological cell atlas of the developing human brain, 10 January 2025, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-5658034/v1]
