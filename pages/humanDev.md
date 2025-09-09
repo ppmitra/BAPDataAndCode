@@ -7,16 +7,15 @@ title: Data Sets
 Resources for our Cell Detection and Data for the Human Developing Brain
 
 ## Datasets Available
-- WSI [Visualize](https://brainviewer.org:4200/CSHL/V1/view/850001/1/112)
-- STP [Visualize](https://brainviewer.org:4200/CSHL/V1/view/850006/1/69)
-- Mouselight ION [Visualize](https://neuroxiv.org/)
+- 13GW [Visualize](#)
+- 23GW [Visualize](#)
 
 ## Available Code
-- Skeletonization Framework [Link to Github](https://github.com/MitraLab-Organization/2D-Skeletonization/tree/main/Skektonization_Suite) 
-- Vectorization of Skeletonized Data [Link to Github](https://github.com/MitraLab-Organization/2D-Skeletonization/tree/main/Vectorization)
-- Registration [Link to Github](https://github.com/twardlab/emlddmm)
-- Summarization of Skeletonization Data [Link to Github](https://github.com/MitraLab-Organization/2D-Skeletonization/tree/main/Summarization)
-- Visualization Tools & Utilities [Link to Github](https://github.com/MitraLab-Organization/2D-Skeletonization/tree/main/Utilities)
+- Proposed Algorithm [Link to Github](#) 
+- Model_1 (MEDIAR) Code [Link to Github](https://github.com/samik1986/Mediar_4_devBrain)
+- Model_2 (Multistream Cell Segmentation) Code [Link to Github](https://github.com/samik1986/MultiStreamCellSeg_4_devBrain)
+- Repo for Evaluation and Colab notebooks to run the above codes [Link to Github](https://github.com/samik1986/3D_Developing_brain)
+
 
 ## Data Samples for Cell Detection
 - Training Data [Tiles](https://drive.google.com/drive/folders/1qrxYiWnAFq-FSSNSZLkM3BBh4WkL6Bm4?usp=sharing) [Centers](https://drive.google.com/drive/folders/1qigPdISRbKwwqrZrBr0pD3JiIIOJJyTH?usp=drive_link)
