@@ -7,15 +7,17 @@ title: Data Sets
 Resources for our Cell Detection and Data for the Human Developing Brain
 
 ## Datasets Available
-- 14GW [Visualize](#)
-- 21GW [Visualize](#)
-- 24GW [Visualize](#)
+- 14GW [Viewer](#), [Dryad](#)
+- 21GW [Viewer](#), [Dryad](#)
+- 24GW [Viewer](#), [Dryad](#)
 
-## Available Code
-- Proposed Algorithm [Link to Github](#) 
+## Cell detection algorithms
+- Current cell detection Algorithm [Link to Github](#) 
 - Model_1 (MEDIAR) Code [Link to Github](https://github.com/samik1986/Mediar_4_devBrain)
 - Model_2 (Multistream Cell Segmentation) Code [Link to Github](https://github.com/samik1986/MultiStreamCellSeg_4_devBrain)
 - Repo for Evaluation and Colab notebooks to run the above codes [Link to Github](https://github.com/samik1986/3D_Developing_brain)
+
+## Expectation Maximization Large Deformation Diffeomorphic Metric Mapping (EMLDDMM) registration
 - Registration [Link to GitHub](https://github.com/twardlab/emlddmm)
 
 ## Data Samples for Cell Detection
