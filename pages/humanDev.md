@@ -3,7 +3,7 @@ layout: default
 title: Data Sets
 ---
 
-## Data and Code for the Developing Human Brain
+## Histological atlas of the Human Developing Brain
 Resources for our Cell Detection and Data for the Human Developing Brain
 
 ## Datasets Available
