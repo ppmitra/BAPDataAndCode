@@ -7,8 +7,9 @@ title: Data Sets
 Resources for our Cell Detection and Data for the Human Developing Brain
 
 ## Datasets Available
-- 13GW [Visualize](#)
-- 23GW [Visualize](#)
+- 14GW [Visualize](#)
+- 21GW [Visualize](#)
+- 24GW [Visualize](#)
 
 ## Available Code
 - Proposed Algorithm [Link to Github](#) 
