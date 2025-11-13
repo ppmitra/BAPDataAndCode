@@ -136,7 +136,7 @@ body {
 .hero-section {
     background: linear-gradient(rgba(10,10,26,0.7), rgba(10,10,26,0.7)), 
                 url('../images/banner-scaled.jpg') center/cover;
-    padding: 2rem 2rem;
+    padding: 1.5rem 2rem;
     color: white;
 }
 
@@ -146,12 +146,12 @@ body {
 }
 
 .hero-content h1 {
-    font-size: 3rem;
+    font-size: 2.2rem;
     margin: 0 0 1rem;
 }
 
 .hero-content p {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     opacity: 0.8;
     margin: 0;
     line-height: 1.4;
