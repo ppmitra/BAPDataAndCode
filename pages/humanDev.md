@@ -7,9 +7,14 @@ title: Data Sets
 Resources for our Cell Detection and Data for the Human Developing Brain
 
 ## Datasets Available (High resolution data upload in progress and will be made available when complete. Printable (pdf) and Volumetric data is available for download in the dryad link below)
-- 14GW [Atlas pdf](#) [High Resolution Viewer](#), [Dryad](#)
-- 21GW [Atlas_pdf](#), [High Resolution Viewer](#), [Dryad](#)
-- 24GW [Atlas_pdf](#), [High Resolution Viewer](#), [Dryad](#)
+- 14GW (S5/FB40) [Atlas pdf](#) [High Resolution Viewer](#), [Dryad](#)
+- 13GW (S3/FB36)  [High Resolution Viewer](#), [Dryad](#)
+- 13GW (S4/FB63) [High Resolution Viewer](#), [Dryad](#)
+  
+- 21GW (S2/FB10) [Atlas_pdf](#), [High Resolution Viewer](#), [Dryad](#)
+- 21GW (S1/FB3) [High Resolution Viewer](#), [Dryad](#)
+  
+- 24GW (S6/FB85) [Atlas_pdf](#), [High Resolution Viewer](#), [Dryad](#)
 
 ## Cell detection algorithms
 - Current cell detection Algorithm [Link to Github](#) 
