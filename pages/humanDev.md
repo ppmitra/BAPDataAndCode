@@ -13,6 +13,7 @@ Resources for our Cell Detection and Data for the Human Developing Brain
  --- 
 - 21GW (S2/FB10) [Atlas_pdf](#), [High Resolution Viewer](#), [Dryad](#)
 - 21GW (S1/FB3) [High Resolution Viewer](#), [Dryad](#)
+
   ---
 - 24GW (S6/FB85) [Atlas_pdf](#), [High Resolution Viewer](#), [Dryad](#)
 ---
