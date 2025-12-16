@@ -74,13 +74,13 @@ Collection of analysis scripts and notebooks.
 - 
 [View Code Documentation](/pages/human/codes) | [GitHub Repository](#) 
 
-  ###Engineering Resources
-  Tools, code and design files for replicating automated large format tissue processing equipment.
-  -Brain mold generation
-  -Brain slicer
-  -Large format coverslipper
-  -Large format stainer
-  -3D printing
+###Engineering Resources
+Tools, code and design files for replicating automated large format tissue processing equipment.
+-Brain mold generation
+-Brain slicer
+-Large format coverslipper
+-Large format stainer
+-3D printing
   
-  [GitHub Repository](#)
+[GitHub Repository](#)
 
