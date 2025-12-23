@@ -84,5 +84,5 @@ Tools, code and design files for replicating automated large format tissue proce
 - Large format stainer
 - 3D printing
   
-[GitHub Repository](https://github.com/MitraLab-Organization/Human_Tissue_Dev/)
+[GitHub Repository](https://github.com/MitraLab-Organization/Human_Tissue_Dev/)[.stl Files Dropbox](https://www.dropbox.com/scl/fi/sjw684melfpi1iishdkaq/Human-Tissue-Histology.zip?rlkey=ct04714orgoidbodpjpu1g72e&st=8hxp2p2u&dl=0)
 
