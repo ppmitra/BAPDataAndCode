@@ -13,7 +13,7 @@ The Mouse Head Reference Atlas Framework provides a standardized approach for ma
 - Standardized coordinate system
 - Anatomical landmarks
 - Cross-sectional views
-- Heirarchical nomenclature(https://github.com/MitraLab-Organization/BAP-Mouse-Head/tree/main)
+- [Hierarchical nomenclature](https://github.com/MitraLab-Organization/BAP-Mouse-Head/tree/main)
 
 [Download Atlas Data](/pages/mouse/datasets)
 
