@@ -22,7 +22,7 @@ title: Data Sets
 		- Head sectioned in sagittal plane [Download ZIP](https://drive.google.com/file/d/1KL20h-xTpeUKEPzPqppcd1_zxA4jl9yQ/view?usp=drive_link) -->
   	- 0.46um 2D registered space
   		- Head sectioned in sagittal plane [2D high resolution viewer](todo)
-  	 	- Head sectioned in transverse plane [2D high resolution viewer](https://brainviewer.org/app/cshl/v1/view/1_1/1/100) <!-- PTM989 -->
+  	 	- Head sectioned in transverse plane [2D high resolution viewer](https://brainviewer.org/app/cshl/v1/view/1_1/1/42) <!-- PTM989 -->
 	- 20um 3D Atlas Space
 		- Head sectioned in sagittal plane [Download ZIP](todo)
         - Head sectioned in transverse plane [Download ZIP](todo)
