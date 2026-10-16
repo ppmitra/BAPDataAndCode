@@ -12,28 +12,17 @@ title: Data Sets
     - Ex vivo T2 MRI average [Download ZIP](figshare)
     - In vivo dMRI average [Download ZIP](figshare)
     - Ex vivo dMRI average [Download ZIP](figshare)
-    - “Bubble corrected” Allen Atlas Annotations <!--[Download ZIP](https://drive.google.com/drive/folders/1YArTu3-z7f2YZL7zMBzDjSCdYyxOAXfB?usp=drive_link) -->
+    - “Bubble corrected” Allen Atlas Annotations [Download ZIP](figshare)
     - 
-- Histology data for mouse head
-  	<!--
-	- Registered Space
-		- Head sectioned in coronal plane [Download ZIP](https://drive.google.com/file/d/1H53NT3cyCbjLjvH8wq3D9TXTm7_0K-wW/view?usp=drive_link)
-		- Head sectioned in transverse plane [Download ZIP](https://drive.google.com/file/d/1YDNtV9Kg3PM-IN9Dl0U5tu4jPjT2Nad0/view?usp=drive_link)
-		- Head sectioned in sagittal plane [Download ZIP](https://drive.google.com/file/d/1KL20h-xTpeUKEPzPqppcd1_zxA4jl9yQ/view?usp=drive_link) -->
+- Histology data for mouse head  	
   	- 0.46um 2D registered space
-  		- Head sectioned in sagittal plane [2D high resolution viewer](todo)
+  		- Head sectioned in sagittal plane [2D high resolution viewer](https://brainviewer.org/app/cshl/v1/view/PTM980/1/100) <!--PTM980 -->
   	 	- Head sectioned in transverse plane [2D high resolution viewer](https://brainviewer.org/app/cshl/v1/view/1_1/1/42) <!-- PTM989 -->
 	- 20um 3D Atlas Space
 		- Head sectioned in sagittal plane [Download ZIP](todo)
         - Head sectioned in transverse plane [Download ZIP](todo)
 
-- Histology Data for mouse brain
-  	<!--
-	- Registered Space
-		- Brain sectioned in coronal plane [Download ZIP](https://drive.google.com/file/d/1RuGLVzHnP-NBVCL4afSrMYXZjQw6qVuh/view?usp=drive_link)
-		- Brain sectioned in transverse plane [Download ZIP](https://drive.google.com/file/d/12m_r_b3zaMX3udBZMgj6CCfIqezwOBhy/view?usp=drive_link)
-		- Brain sectioned in sagittal plane [Download ZIP](https://drive.google.com/file/d/1_aQZtkceP9xeGa37wNs2zRtQqUoZlFZp/view?usp=drive_link)
-  -->
+- Histology Data for mouse brain  	
   	- 0.46um 2D registered space
   		- Brain sectioned in the sagittal plane [2D high resolution viewer](https://brainviewer.org/app/cshl/v1/view/1826/1/100) <!-- MD585 -->
   	    - Brain sectioned in the transverse plane [2D high resolution viewer](https://brainviewer.org/app/CSHL/V1/view/100004/1/200) <!-- MD636 -->
@@ -42,6 +31,6 @@ title: Data Sets
  		- Brain sectioned in sagittal plane [Download ZIP](figshare), [3D viewer](neuroglancer)
 		- Brain sectioned in transverse plane [Download ZIP](figshare), [3D viewer](neuroglancer)
 		- Brain sectioned in coronal plane [Download ZIP](figshare), [3D viewer](neuroglancer) 		
-		<!--- Brain sectioned in sagittal plane [Download ZIP](https://drive.google.com/file/d/16PUv0jM0lpyv9O2c5RzXGb9FiGb3ydJq/view?usp=sharing) -->
+		
 ### Access
 All datasets are available under GNU GPL v3 license.
