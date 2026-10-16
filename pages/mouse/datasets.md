@@ -10,10 +10,10 @@ title: Data Sets
 	- 3D Nissl volume (see also "transverse brain" below) [Download ZIP](https://figshare.com/articles/dataset/_/34102719) 
 	- In vivo T2 MRI average [Download ZIP](https://dx.doi.org/10.6084/m9.figshare.34265910)
     - Ex vivo T2 MRI average [Download ZIP](figshare)
-    - In vivo dMRI average [Download ZIP](figshare)
+    - In vivo dMRI average [Download ZIP](figshare) <!-- done -->
     - Ex vivo dMRI average [Download ZIP](figshare)
     - “Bubble corrected” Allen Atlas Annotations [Download ZIP](figshare)
-    - 
+    - Combined 3D data available for visualization in [NEUROGLANCER](https://brainviewer.org/v/bapraf/)
 - Histology data for mouse head  	
   	- 0.46um 2D registered space
   		- Head sectioned in sagittal plane [2D high resolution viewer](https://brainviewer.org/app/cshl/v1/view/PTM980/1/100) <!--PTM980 -->
