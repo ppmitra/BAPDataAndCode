@@ -8,7 +8,7 @@ title: Data Sets
 # Available Data Sets
 - Reference Atlas Space based on invivo MRI/CT <!--[Download ZIP](https://drive.google.com/file/d/1NBouguQ_Vnfjp9NzlHairLvuGNVg0mbg/view?usp=drive_link)-->
 	- 3D Nissl volume (see also "transverse brain" below) [Download ZIP](https://figshare.com/articles/dataset/_/34102719) 
-	- In vivo T2 MRI average [Download ZIP](figshare)
+	- In vivo T2 MRI average [Download ZIP](https://dx.doi.org/10.6084/m9.figshare.34265910)
     - Ex vivo T2 MRI average [Download ZIP](figshare)
     - In vivo dMRI average [Download ZIP](figshare)
     - Ex vivo dMRI average [Download ZIP](figshare)
